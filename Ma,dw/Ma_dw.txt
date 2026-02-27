@@ -1,0 +1,887 @@
+Received: 9 December 2020         Revised: 26 May 2021         Accepted: 1 June 2021
+
+DOI: 10.1111/grs.12343
+
+
+ORIGINAL ARTICLE
+
+
+
+
+DNA marker analysis of flowering time, semi-dwarf, fertility
+restorer, and brown midrib genes in sorghum (Sorghum bicolor
+[L.] Moench)
+
+Hiroyuki Kawahigashi1   | Jun-ichi Yonemaru1                                                   | Atsushi Kiyosawa2 |
+Hiroshi Mizuno1    | Sigemitsu Kasuga3
+
+1
+  Institute of Crop Science (NICS), National
+Agriculture and Food Research Organization              Abstract
+(NARO), Tsukuba, Ibaraki, Japan
+                                                        DNA markers for the genes for flowering time (Ma1/SbPRR37, Ma2/SbEHD1,
+2
+ Nagano Animal Industry Experiment Station,
+Shiojiri, Nagano, Japan
+                                                        Ma3/SbPhyB, Ma4/SbCO, Ma5/SbPhyC, and Ma6/SbGHD7), semi-dwarfism (dw1 and
+3
+Faculty of Agriculture, Shinshu University,             dw2), fertility restorers (Rf1, Rf2, Rf5, and partial A1 mitochondrial sequence) and
+Minamiminowa, Nagano, Japan                             cytoplasmic–nuclear male sterile (CMS), and brown midrib (bmr-2, bmr-6, and bmr-18)
+
+Correspondence
+                                                        were developed in this study. These markers and previously published DNA markers
+Hiroyuki Kawahigashi, Plant Genome Research             for dw3 were used to analyze sorghum cultivars used in breeding programs in Japan
+Unit, Institute of Crop Science, National
+Agriculture and Food Research Organization
+                                                        and traditional landraces from the National Institute of Agricultural Sciences (NIAS)
+(NARO), 2-1-2, Kannondai, Tsukuba, Ibaraki              sorghum core collection. Agronomically useful mutations were effectively detected
+305-8518, Japan.
+Email: shiwak@affrc.go.jp
+                                                        in the cultivars by the DNA markers. Most of the mutation types for flowering and
+                                                        semi-dwarfism were detected in sorghum cultivars, but only the dominant-type allele
+Funding information
+                                                        of SbEHD1 and SbPhyB for flowering was detected in the NIAS collection. Fertility
+Ministry of Agriculture, Forestry and Fisheries,
+Grant/Award Numbers: QTL-5502, QTL-5506,                restorers and CMS were rarely detected in NIAS collection. Agronomically useful
+28037C
+                                                        traits such as early flowering and semi-dwarfism became combined in the modern
+                                                        cultivars by phenotypic evaluation for the adaptation of harvesting to the temperate
+                                                        zones. Fertility restorers and CMS were introduced for F1 hybrid breeding. These
+                                                        phenotypes are often recessive, so information on the alleles responsible would be
+                                                        helpful for sorghum breeding. We expect these DNA markers to facilitate and
+                                                        improve the efficiency of F1 sorghum breeding programs.
+
+                                                        KEYWORDS
+                                                        cytoplasmic–nuclear male sterility (CMS), DNA marker analysis, F1 hybrid sorghum, flowering
+                                                        time, Rf (fertility restorer) genes
+
+
+
+
+1    |    I N T RO DU CT I O N                                                          (Rao et al., 1996). It subsequently reached East Asia, adapting to
+                                                                                        high-latitude areas (Kimber, 2000).
+Sorghum (Sorghum bicolor [L.] Moench), a C4 grass, can grow                                 The sorghum genome is 750 Mbp, twice as long as that of rice
+vigorously in summer in temperate zones but is particularly important                   (Oryza sativa L.). The whole sorghum genome has been sequenced,
+in tropical semiarid and arid regions of the world. Sorghum originated                  and simple sequence repeat (SSR) markers have been generated
+in Africa and is considered to have been domesticated in the eastern                    (Paterson et al., 2009; Yonemaru et al., 2009). Recently, some
+Sahelian zone (reviewed by Winchell et al., 2018). It spread to South                   agronomically important genes such as those affecting biomass and
+Asia, where the secondary center of sorghum diversity is located                        flowering time have been isolated using genetic mapping and
+
+
+
+Grassl Sci. 2021;1–13.                             wileyonlinelibrary.com/journal/grs                        © 2021 Japanese Society of Grassland Science   1
+2                                                                                                                                          KAWAHIGASHI ET AL.
+
+
+comparative genome studies between sorghum and other crops                        pathway; a nonsense mutation in this gene results in a truncated
+(Casto et al., 2019; Childs et al., 1997; Hilley et al., 2017; Multani            protein lacking the NADPH-binding and C-terminal catalytic domains
+et al., 2003; Murphy et al., 2011, 2014; Yamaguchi et al., 2016; Yang,            (Sattler et al., 2009). Three alleles, bmr-18, -12, and -24, have been
+Murphy, et al., 2014; Yang, Weers, et al., 2014).                                 found for the Sobic.007G047300 gene, which encodes a lignin
+       Flowering time is affected by the major maturity loci Ma1–Ma6.             biosynthesis enzyme, caffeic acid O-methyltransferase (Bout &
+The Ma1 allele leads to a photoperiod response, and the ma1 allele                Vermerris, 2003). Each of them has a nonsense mutation at a
+leads to early flowering (Murphy et al., 2011). Ma2 shows complex                 different position. In Japan, bmr-18 is mostly used for the production
+interaction with Ma1 (Brown & Paterson, 2013): it causes late                     of F1 hybrid sorghum (Kiyosawa, 2015).
+flowering in the Ma1 background and early flowering in the ma1                          Commercial sorghum cultivars are mostly F1 hybrids. They are
+background. By quantitative trait locus (QTL) analysis and compara-               typically produced by crossing a cytoplasmic–nuclear male sterile
+tive studies, Ma1 has been identified as PSEUDORESPONSE REGULA-                   (CMS) line as a female parent and a fertility restorer (Rf) line as a
+TOR PROTEIN 37 (SbPRR37, Sobic.006G057866; Murphy et al., 2011)                   pollen donor, which restores male fertility in hybrid cultivars. In the
+and Ma2 as EARLY HEADING DATE 1 (SbEHD1, Sobic.002G203700;                        sorghum F1 breeding, CMS lines are called A-lines (e.g., ‘ATx623’
+Casto et al., 2019). Ma3 encodes a PHYTOCHROME B (SbPhyB,                         and ‘MS3A’) and the corresponding maintenance lines were called
+Sobic.001G394400), and its loss of function causes early flowering                B-lines (e.g., ‘BTx623’ and ‘MS3B,’ respectively). There are several
+regardless of day length (Childs et al., 1997). SbPhyB/Ma3 and                    types of CMS lines; the A1 cytoplasm (Stephens & Holland, 1954) is
+SbPhyC/Ma5 are epistatic to Ma1 and Ma6, and progeny recessive                    used in almost all female parents in commercial hybrid seed produc-
+for either gene shows flower early in long days. The recessive allele             tion. The mutation responsible for the A1 cytoplasm may occur in a
+of SbPhyB also results in considerable morphological differences                  mitochondrial gene, but it has not been identified yet. The Rf genes
+such as thin stem. Ma4 is considered to be identical to CONSTANS                  that recover the fertility of lines with the A1 cytoplasm have been
+(SbCO, Sobic.010G115800). A functional SbCO allele accelerates                    identified as Rf1 (Sobic.008G147400) and Rf2 (Sobic.002G057050)
+flowering under long days (Yang, Weers, et al., 2014). The loss-                  and       encode    pentatricopeptide   repeat   (PPR)    proteins   (Kante
+of-function alleles of Ma5 and Ma6 also result in early flowering;                et al., 2018; Klein et al., 2005; Praveen et al., 2018). Another Rf
+these genes have been identified as PHYTOCHROME C (SbPhyC,                        gene, Rf5, on Chr5, has been delimited to an approximately 584-kb
+Sobic.001G087100; Yang, Murphy, et al., 2014) and GRAIN NUMBER,                   region, which contains seven genes encoding PPR proteins (Jordan
+PLANT HEIGHT AND HEADING DATE 7 (SbGHD7, Sobic.006G004400;                        et al., 2011).
+Murphy et al., 2014), respectively.                                                     DNA markers are useful in plant breeding. They are closely linked
+       Semi-dwarfing genes (Dw1–Dw4) enhance lodging resistance,                  to the target gene and phenotype. Here, we created new DNA
+increasing crop productivity. These four loci have been traditionally             markers for use in sorghum breeding based on the identified genes
+used in combinations to breed sorghum cultivars for desired plant                 and the allelic information related to agronomic traits as noted above.
+height by reducing the tall plant height. Dw1 (Sobic.009g229800)                  To facilitate sorghum breeding, we used the DNA markers to analyze
+was the first widely used semi-dwarfing gene; the dw1 allele                      modern Japanese cultivars used for F1 breeding for the agronomic
+reduces cell proliferation in internodes (Yamaguchi et al., 2016).                traits including CMS and bmr. We also applied them to the National
+Dw2 (Sobic.006G067700) encodes a KCBP-interacting protein kinase                  Institute of Agricultural Sciences (NIAS) sorghum core collection to
+and regulates stem internode length (Hilley et al., 2017). Dw3                    analyze the distribution and utilization of some agronomic traits in
+(Sobic.007G163800)       encodes     a   P-glycoprotein1protein       that   is   landrace accessions. Our results can be utilized for the introduction of
+involved in polar auxin transport. A direct 882-bp duplication in exon            useful agronomic traits into sorghum cultivars from landrace
+5 within the dw3-1 gene is responsible for the compact lower stalk                accessions.
+internodes (Multani et al., 2003). A set of polymerase chain reaction
+(PCR) primers overlapping the duplicated site have been designed; the
+longer band corresponds to the nonfunctional gene (Multani                        2     |        M A T E R I A L S A N D M ET H O D S
+et al., 2003; patent WO2013036595A1). Dw4 has been mapped on
+Chr4 but has not been identified yet (Li et al., 2015).                           2.1        |    Plant materials
+       Sorghum brown midrib (bmr) mutants have yellow to brown
+midribs and reduced lignin content in the cell walls. These mutations             We used 34 sorghum inbred line cultivars (Table 1–3), some of which
+are advantageous because they increase the digestibility of foliage               were used for the parents of F1 hybrid lines, and 107 accessions from
+for cows (Oliver et al., 2004, 2005). Three types of bmr mutants                  the sorghum core collection in the NIAS Genebank in Japan (Shehzad
+have been reported. Brown midrib 2 (bmr-2; Sobic.004G062500)                      et al., 2009). For the analysis of CMS lines (A-lines) and the
+encodes the major 4-coumarate:coenzyme A ligase involved in lignin                corresponding maintenance lines (B-lines), we used six A-lines
+biosynthesis; missense mutations in two bmr-2 alleles result in the               (‘ATx623,’ ‘MS3A,’ ‘MS21A,’ ‘MS138A,’ ‘MS175A,’ and ‘MS79A’)
+loss    of   enzymatic    activity   (Saballos   et   al.,   2012).    Bmr-6      and six B-lines (‘BTx623,’ ‘MS3B,’ ‘MS21B,’ ‘MS138B,’ ‘MS175B,’
+(Sobic.004G071000) encodes a cinnamyl alcohol dehydrogenase,                      and ‘MS79B’). For the analysis of cultivars with the bmr phenotype,
+which catalyzes the final step of the monolignol biosynthesis                     we used ‘MS3B,’ ‘D36B,’ ‘AMP11,’ ‘BMP11,’ ‘AMP12,’ ‘BMP12,’
+TABLE 1       DNA marker analysis of flowering time genes in Japanese sorghum cultivars
+
+ Gene name                SbPRR37 (Ma1)                                                   SbEHD1 (Ma2)                       SbPhyB (Ma3)
+
+ Transcript name          Sobic.006G057866                                                Sobic.002G203700                   Sobic.001G394400
+ Detection type           Deletion                       SNP                              SNP            SNP                 SNP                      SNP
+                                                                                                                                                                          KAWAHIGASHI ET AL.
+
+
+
+
+ Experiment name          Ma1-1                          Ma1-2                            Ma2-1          Ma2-2               Ma3-1                    Ma3-2
+                          u, WT (97 bp)                  +, Mut                           +, WT          +, Mut              u, MS3B type (137 bp)    +, Mut
+                          uu, slight band detected                                                                           l, JN358 type (123 bp)
+                          l, Mut (82 bp)
+ Cultivar name                                                         Genotype                                   Genotype                                     Genotype
+ AMP14                    l                                            prr37              +                       EHD1       l                                 PhyB
+ BMP13                    l                                            prr37              +                       EHD1       u                                 PhyB
+ BMP21                    u                                            PRR37              +                       EHD1       l                                 PhyB
+ BJ138                                                  +              prr37                             +        ehd1       l                        +        phyB
+ bmr6                     l                                            prr37              +                       EHD1       l                                 PhyB
+ BTx623                   l                                            prr37              +                       EHD1       l                                 PhyB
+ BTx624                   l                                            prr37              +                       EHD1       l                                 PhyB
+ Chohin232                uu                            +              prr37                             +        ehd1       l                        +        phyB
+ Daikoukaku               uu                            +              prr37              +                       EHD1       l                                 PhyB
+ F6-3A-5                  l                                            prr37              +                       EHD1       l                                 PhyB
+ Greenleaf, line #8       u                                            PRR37              +                       EHD1       u                                 PhyB
+ H137                     l                                            prr37              +                       EHD1       u                                 PhyB
+ Italian                                                 +             prr37              +                       EHD1       u                                 PhyB
+ JN107                    l                                            prr37              +                       EHD1       l                                 PhyB
+ JN290EE                  uu                            +              prr37              +                       EHD1       l                        +        phyB
+ JN358                    l                                            prr37                             +        ehd1       l                        +        phyB
+ JN43                     l                                            prr37              +                       EHD1       l                                 PhyB
+ JN501                    u                                            PRR37              +                       EHD1       u                                 PhyB
+ JN503                    l                                            prr37              +                       EHD1       l                                 PhyB
+ Keller                   l                                            prr37              +                       EHD1       u                                 PhyB
+ MS138B                   u                                            PRR37              +                       EHD1       l                                 PhyB
+ MS21B                    l                                            prr37              +                       EHD1       l                                 PhyB
+ MS3B                     l                                            prr37              +                       EHD1       u                                 PhyB
+ MS79B                    u                                            PRR37              +                       EHD1       l                                 PhyB
+ P85                      u                                            PRR37              +                       EHD1       l                                 PhyB
+ RIO                      l                                            prr37              +                       EHD1       l                                 PhyB
+                                                                                                                                                                          3
+                                                                                                                                                                                       4
+
+
+
+TABLE 1        (Continued)
+
+ Gene name                   SbPRR37 (Ma1)                                                 SbEHD1 (Ma2)                               SbPhyB (Ma3)
+
+ Transcript name             Sobic.006G057866                                              Sobic.002G203700                           Sobic.001G394400
+ SDS7444                     uu                                +           prr37           +                          EHD1            l                                     PhyB
+
+ Senkinshiro                 uu                                +           prr37           +                          EHD1            l                                     PhyB
+ SIL-05                      u                                             PRR37           +                          EHD1            u                                     PhyB
+ Sooner Milo 100             uu                                +           prr37           +                          EHD1            u                                     PhyB
+ Sooner Milo 60-1            uu                                +           prr37                           +          ehd1            l                                     PhyB
+ Sooner Milo 80              uu                                +           prr37                           +          ehd1            u                                     PhyB
+ Sooner Milo 90              uu                                +           prr37           +                          EHD1            l                                     PhyB
+ Waikai                                                                    prr37           +                          EHD1            u                                     PhyB
+
+TABLE 1        DNA marker analysis of flowering time genes in Japanese sorghum cultivars
+
+ Gene name                   SbCO (Ma4)                                            SbPhyC (Ma5)                              SbGHD7 (Ma6)
+
+ Transcript name             Sobic.010G115800                                      Sobic.001G087100                          Sobic.006G004400
+ Detection type              Promoter variation                                    SNP            SNP                        Insertion         Deletion
+ Experiment name             Ma4-1                                                 Ma5-1          Ma5-2                      Ma6-1             Ma6-2
+                             u, MS3B type (WT, 303 bp)                             +, WT          +, Mut                     +, Mut            u, MS3B type (WT, 397 bp)
+                             l, SIL-05 type (Mut, 250 bp)                                                                                     l, MS79 type (Mut, 314 bp)
+                             g, Greenleaf type (Mut, 394 bp)
+ Cultivar name                                                     Genotype                                    Genotype                                                     Genotype
+ AMP14                       u                                     CO              +                           PhyC          +                 u                            ghd7
+ BMP13                       u                                     CO              +                           PhyC          +                 u                            ghd7
+ BMP21                       u                                     CO              +                           PhyC          +                 u                            ghd7
+ BJ138                       u                                     CO              +                           PhyC                            u                            GHD7
+ bmr6                        u                                     CO              +                           PhyC          +                 u                            ghd7
+ BTx623                      u                                     CO              +                           PhyC          +                 u                            ghd7
+ BTx624                      u                                     CO              +                           PhyC          +                 u                            ghd7
+ Chohin232                   u                                     CO              +                           PhyC                            u                            GHD7
+ Daikoukaku                  l                                     co                             +            phyC          +                 u                            ghd7
+ F6-3A-5                     u                                     CO              +                           PhyC          +                 u                            ghd7
+ Greenleaf, line #8          g                                     co              +                           PhyC          +                 u                            ghd7
+ H137                        g/u                                   CO/co           +                           PhyC          +                 u                            ghd7
+ Italian                     u                                     CO              +                           PhyC          +                 u                            ghd7
+ JN107                       u                                     CO              +                           PhyC          +                 u                            ghd7
+                                                                                                                                                                                       KAWAHIGASHI ET AL.
+                                                                                                                           KAWAHIGASHI ET AL.
+
+
+
+
+TABLE 1         (Continued)
+
+  Gene name                   SbCO (Ma4)                               SbPhyC (Ma5)              SbGHD7 (Ma6)
+
+  Transcript name             Sobic.010G115800                         Sobic.001G087100          Sobic.006G004400
+  JN290EE                     u                                   CO   +                  PhyC                  u   GHD7
+
+  JN358                       u                                   CO   +                  PhyC                  u   GHD7
+  JN43                        u                                   CO   +                  PhyC   +              u   ghd7
+  JN501                       u                                   CO   +                  PhyC                  u   GHD7
+  JN503                       u                                   CO   +                  PhyC   +              u   ghd7
+  Keller                      l                                   co   +                  PhyC                  l   ghd7
+  MS138B                      l                                   co   +                  PhyC                  l   ghd7
+  MS21B                       u                                   CO   +                  PhyC   +              u   ghd7
+  MS3B                        u                                   CO   +                  PhyC   +              u   ghd7
+  MS79B                       l                                   co   +                  PhyC                  l   ghd7
+  P85                         l                                   co   +                  PhyC                  l   ghd7
+  RIO                         l                                   co   +                  PhyC                  l   ghd7
+  SDS7444                     l                                   co                  +   phyC   +              u   ghd7
+  Senkinshiro                 l                                   co                  +   phyC   +              u   ghd7
+  SIL-05                      l                                   co   +                  PhyC   +              u   ghd7
+  Sooner Milo 100             u                                   CO   +                  PhyC   +              u   ghd7
+  Sooner Milo 60-1            u                                   CO   +                  PhyC   +              u   ghd7
+  Sooner Milo 80              l                                   co   +                  PhyC   +              u   ghd7
+  Sooner Milo 90              u                                   CO   +                  PhyC   +              u   ghd7
+  Waikai                      u                                   CO                  +   phyC   +              u   ghd7
+
+Note:    , no amplification by polymerase chain reaction (PCR).
+                                                                                                                           5
+6                                                                                                                           KAWAHIGASHI ET AL.
+
+
+
+TABLE 2           DNA marker analysis of semi-ddwarf genes in Japanese sorghum cultivars
+
+    Gene name                    Dw1                                     Dw2                                    Dw3
+
+    Transcript name              Sobic.009G229800                        Sobic.006G067700                       Sobic.007G163800
+    Detection type               SNP                SNP                  SNP               SNP                  Insertion
+    Experiment name              Dw1-1              Dw1-2                Dw2-1             Dw2-2                Dw3-1
+                                 +, WT              +, Mut               +, WT             +, Mut               u,-, Mut (1960 bp)
+                                                                                                                l, WT (1,078 bp)
+    Cultivar name                                             Genotype                              Genotype                         Genotype
+    AMP14                                       +             dw1           +                       Dw2               u              dw3
+    BMP13                                       +             dw1           +                       Dw2                              dw3
+    BMP21                                       +             dw1           +              +        dw2               u              dw3
+    BJ138                                       +             dw1           +                       Dw2               l              Dw3
+    bmr6                                        +             dw1                          +        dw2               u              dw3
+    BTx623                                      +             dw1           +                       Dw2               u              dw3
+    BTx624                                      +             dw1           +                       Dw2               u              dw3
+    Chohin232                                   +             dw1           +                       Dw2               l              Dw3
+    Daikoukaku                     +                          Dw1           +                       Dw2               l              Dw3
+    F6-3A-5                                     +             dw1           +                       Dw2                              dw3
+    Greenleaf, line #8             +                          Dw1           +                       Dw2               l              Dw3
+    H137                           +                          Dw1           +                       Dw2               l              Dw3
+    Italian                        +                          Dw1           +                       Dw2               l              Dw3
+    JN107                          +                          Dw1           +                       Dw2               l              Dw3
+    JN290EE                        +                          Dw1           +                       Dw2               l              Dw3
+    JN358                                       +             dw1           +                       Dw2               l              Dw3
+    JN43                           +                          Dw1           +                       Dw2               l              Dw3
+    JN501                                       +             dw1           +                       Dw2               l              Dw3
+    JN503                          +                          Dw1           +                       Dw2               l              Dw3
+    Keller                         +                          Dw1           +                       Dw2               l              Dw3
+    MS138B                         +                          Dw1           +                       Dw2                              dw3
+    MS21B                                       +             dw1           +                       Dw2                              dw3
+    MS3B                           +                          Dw1                          +        dw2                              dw3
+    MS79B                          +                          Dw1           +                       Dw2               l              Dw3
+    P85                            +            +             dw1           +                       Dw2               l              Dw3
+    RIO                            +                          Dw1           +                       Dw2               l              Dw3
+    SDS7444                        +                          Dw1           +                       Dw2               l              Dw3
+    Senkinshiro                    +                          Dw1           +                       Dw2               l              Dw3
+    SIL-05                         +                          Dw1           +                       Dw2               l              Dw3
+    Sooner Milo 100                             +             dw1           +              +        dw2               l              Dw3
+    Sooner Milo 60-1                            +             dw1                          +        dw2               l              Dw3
+    Sooner Milo 80                              +             dw1                          +        dw2               l              Dw3
+    Sooner Milo 90                              +             dw1                          +        dw2               l              Dw3
+    Waikai                         +                          Dw1           +                       Dw2               l              Dw3
+
+Note:      , no amplification by polymerase chain reaction (PCR).
+
+
+
+‘AMP13,’ ‘BMP13,’ ‘AMP14,’ ‘BMP14,’ ‘bmr-6,’ and ‘JN43.’ We also            2.2    |   Genome sequencing and DNA marker design
+used the wild-type cultivars of bmr phenotype, which have white to
+pale green midrib, ‘SS603,’ ‘SS632,’ ‘BTx623,’ ‘SIL-05,’ ‘Greenleaf,’       Leaf genomic DNA was used for short-read Illumina resequencing,
+‘M36001,’ and ‘MS138B.’’                                                    and the data were processed as described previously (Kiyosawa
+TABLE 3       DNA marker analysis of fertility restorer genes in Japanese sorghum cultivars
+
+ Gene name              Rf1                                                                          Rf2                                      Rf5
+
+ Transcript name        Sobic.008G147400                                                             Sobic.002G057050                         Sobic.005G027600  Sobic.005G027840
+ Detection type         SNP         SNP         SNP         SNP          SNP         SNP             SNP       Insertion                      Deletion                BTx623 specific
+                                                                                                                                                                                                KAWAHIGASHI ET AL.
+
+
+
+
+ Experiment name        Rf1-1       Rf1-2       Rf1-3       Rf1-4        Rf1-5       Rf1-6           Rf2-1     Rf2-2                          Rf5-1                   RF5-2
+                        +, WT       +, Mut      +, WT       +, Mut       +, WT       +, Mut          +, WT     +, Mut                         u, MS3B type (494 bp)   +, Mut
+                                                                                                               s, slightly amplified          I, WT (242 bp)
+ Cultivar name                                                                                Genotype                                 Genotype                                   Genotype
+ AMP14                                    +         +                      +                  rf1                              +       rf2                     u      +           rf5
+ BMP13                                    +         +                      +                  rf1                              s       rf2                     u                  rf5
+ BMP21                                    +         +                      +           +      rf1                              +       rf2                     u      +           rf5
+ BJ138                        +                     +                                  +      rf1                +             s       Rf2                     l                  Rf5
+ bmr6                         +                     +                      +                  Rf1                                      rf2                     l      +           rf5
+ BTx623                                   +         +                      +                  rf1                              +       rf2                     l      +           rf5
+ BTx624                                   +         +                      +                  rf1                              +       rf2                     l      +           rf5
+ Chohin232                    +                     +                                  +      rf1                +             s       Rf2                     u      +           rf5
+ Daikoukaku                               +         +                      +                  rf1                              +       rf2                     l                  Rf5
+ F6-3A-5                      +                     +                      +                  Rf1a                                     rf2                     u                  rf5
+ Greenleaf, line #8           +                                +           +                  rf1                +                     Rf2?                    u      +           rf5
+ H137                         +           +         +          +           +                  rf1                +             +       Rf2/rf2                 u/l                RF5/rf5
+ Italian                                  +         +                      +                  rf1                              +       rf2                     u      +           rf5
+ JN107                        +                     +                      +                  Rf1                              +       rf2                     u                  rf5
+ JN290EE                      +                     +                                  +      rf1                              +       rf2                     l                  Rf5
+ JN358                        +                     +                                  +      rf1                +             s       Rf2                     u      +           rf5
+ JN43                         +                     +                      +                  Rf1                              +       rf2                     l                  Rf5
+ JN501                                              +                      +                  rf1                +             s       Rf2                     u      +           rf5
+ JN503                        +                     +                                  +      rf1                              +       rf2                     l                  Rf5
+ Keller                       +                     +                      +                  Rf1                              +       rf2                     l      +           rf5
+ MS138B                       +                     +                                  +      rf1                              s       rf2                     u                  rf5
+ MS21B                        +                     +                                  +      rf1                              +       rf2                     u      +           rf5
+ MS3B                                     +         +                      +                  rf1                              +       rf2                     u      +           rf5
+ MS79B                        +                     +                                  +      rf1                              +       rf2                     u      +           rf5
+ P85                                      +         +                      +                  rf1                              +       rf2                     u                  rf5
+ RIO                          +                     +                      +                  Rf1                              +       rf2                     l      +           rf5
+                                                                                                                                                                                  (Continues)
+                                                                                                                                                                                                7
+8                                                                                                                                                                                                                                                                                                                                                                KAWAHIGASHI ET AL.
+
+
+                                                                                                                                                                                                                                                                                                  et al., 2020). Mitochondria were prepared from etiolated young
+
+
+
+
+                   Genotype
+                                                                                                                                                                                                                                                                                                  seedlings        of   ‘ATx623’        by      sucrose    gradient    centrifugation
+                                                                                                                                                                                                                                                                                                  (Handa et al., 1990). Mitochondrial DNA was extracted with a DNeasy
+
+
+
+
+                                   Rf5
+                                             Rf5
+
+
+
+
+                                                                                                                                           Rf5
+                                                           rf5
+                                                                    rf5
+                                                                                      rf5
+                                                                                                         rf5
+                                                                                                                          rf5
+                                                                                                                                                                                                                                                                                                  plant kit (Qiagen) and also analyzed by short-read Illumina
+                                                                                                                                                                                                                                                                                                  resequencing.
+                                                                                                                                                                                                                                                                                                        The       reconstructed       genome      sequences    of     ‘Chohin     232,’
+
+
+
+                                                           +
+                                                                    +
+                                                                                      +
+                                                                                                         +
+                                                                                                                          +
+                                                                                                                                                                                                                                                                                                  ‘AMP21,’         ‘BMP21,’         ‘BTX624,’    ‘Daikoukaku,’      ‘Greenleaf’    line
+                                                                                                                                                                                                                                                                                                  #8    (a       selected    line    from    ‘Greenleaf’),    ‘F6-3A-5,’    ‘JN290,’
+                                                                                                                                                                                                                                                                                                  ‘JN358,’         ‘JN43,’    ‘JN503,’       ‘MS138B,’       ‘MS175B,’     ‘MS21A,’
+                                                                                                                                                                                                                                                                                                  ‘MS21B,’         ‘MS3A,’      ‘MS3B,’         ‘MS79B,’     ‘SDS7444,’     ‘SIL-05,’
+                                                           u
+                                   l
+                                             l
+
+
+                                                                    l
+                                                                                      l
+                                                                                                         l
+                                                                                                                          l
+                                                                                                                                           l
+                                                                                                                                                                                                                                                                                                  ‘Senkinshiro,’ and ‘Waikai’ were used to design DNA markers using
+                                                                                                                                                                                                                                                                                                  the ‘BTx623’ genome sequence (Paterson et al., 2009) as a
+                                                                                                                                                                                                                                                                                                  reference.
+                   Genotype
+
+
+
+
+                                                                                                                                                                                                                                                                                                        The causal mutations have been reported for the genes SbPRR37
+                                                                    Rf2
+                                                                                      Rf2
+                                                                                                         Rf2
+                                                                                                                          Rf2
+                                   rf2
+                                             rf2
+                                                           rf2
+
+
+
+
+                                                                                                                                           rf2
+                                                                                                                                                                                                                                                                                                  (Murphy et al., 2011), SbEHD1 (Casto et al., 2019), SbPhyB (Yang,
+                                                                                                                                                                                                                                                                                                  Murphy, et al., 2014), SbPhyC (Yang, Murphy, et al., 2014), SbGHD7
+                                                                                                                                                                                                                                                                                                  (Murphy et al., 2014), Dw1 (Yamaguchi et al., 2016), Dw2 (Hilley
+                                                                                                                                                                                                                                                                                                  et al., 2017), bmr-2 (Saballos et al., 2012), bmr-6 (Sattler et al., 2009),
+                                   +
+                                             +
+                                                           +
+
+
+
+
+                                                                                                                                           +
+                                                                    s
+                                                                                      s
+                                                                                                         s
+                                                                                                                          s
+
+
+
+
+                                                                                                                                                     Gene names in bold have experimental evidences of field segregation test, QTL analysis, and/or haplotype analysis (Kiyosawa et al., 2020).
+
+
+
+                                                                                                                                                                                                                                                                                                  and bmr-18 (Bout & Vermerris, 2003); the DNA markers were
+                                                                                                                                                                                                                                                                                                  designed around the reported sites such as SNPs and insertion and
+                                                                                                                                                                                                                                                                                                  deletion sites. The reported DNA markers for Dw3 (Multani
+                                                                    +
+                                                                                      +
+                                                                                                         +
+                                                                                                                          +
+
+
+
+
+                                                                                                                                                                                                                                                                                                  et al., 2003, patent WO2013036595A1) were used. DNA markers
+                                                                                                                                                                                                                                                                                                  for the SbCO, Rf1, Rf2, and Rf5 genes and for the mitochondrial DNA
+                                                                                                                                                                                                                                                                                                  of A-lines were designed to compare the single nucleotide polymor-
+                   Genotype
+
+
+
+
+                                                                                                                                                                                                                                                                                                  phism (SNP)s, deletions, and insertions. DNA marker sequences used
+                                                                                                                                                                                                                                                                                                  in this study are summarized in Table S1.
+                                   rf1
+                                             rf1
+                                                           rf1
+                                                                    rf1
+                                                                                      rf1
+                                                                                                         rf1
+                                                                                                                          rf1
+                                                                                                                                           rf1
+
+
+
+
+                                                                                                                                                                                                                                                                                                  2.3        |     PCR
+                                             +
+                                                           +
+                                                                    +
+                                                                                      +
+                                                                                                         +
+                                                                                                                          +
+
+
+
+
+                                                                                                                                                                                                                                                                                                  Each sorghum plant was grown in a pot or a field and the leaves
+                                                                                                                                                                                                                                                                                                  were dried between papers at 42 C and kept at room temperature
+                                   +
+
+
+                                                           +
+
+
+
+
+                                                                                                                                           +
+
+
+
+
+                                                                                                                                                                                                                                                                                                  until DNA extraction. Leaf genomic DNA was used for the
+                                                                                                                                                                                                                                                                                                  amplification of specific DNA fragments by PCR. The 20-μl PCR
+                                                                                                                                                                                                                                                                                                  mixture contained 1 U of Taq DNA polymerase (Promega), 6 nmol
+                                                                                                                                                                                                                                                                                                  each forward and reverse primers, 75 μM each dNTP, and 2 ng/μl
+                                                           +
+
+
+
+
+                                                                                                                                                                                                                                                                                                  genomic DNA. PCR was performed using 35 cycles of 94 C for
+                                                                                                                                                                                                                                                                                                  0.5 min, specific annealing temperature for 1 min, and 72 C for
+                                                                                                                                                    Note: , no amplification by polymerase chain reaction (PCR).
+
+
+
+
+                                                                                                                                                                                                                                                                                                  3 min. PCR primers, annealing temperatures, and electrophoresis
+                                   +
+                                             +
+
+
+                                                                    +
+                                                                                      +
+                                                                                                         +
+                                                                                                                          +
+                                                                                                                                           +
+
+
+
+
+                                                                                                                                                                                                                                                                                                  conditions are listed in Table S1. The PCR products were analyzed
+                                                                                                                                                                                                                                                                                                  by 3% agarose gel electrophoresis except for Dw3-1 (1%
+                                                                                                                                                                                                                                                                                                  agarose gel).
+                                   +
+
+
+
+
+                                                                                                                                           +
+
+
+
+
+                                                                                                                                                                                                                                                                                                  3     |        RESULTS AND DISCUSSION
+                                             +
+                                                           +
+                                                                    +
+                                                                                      +
+                                                                                                         +
+                                                                                                                          +
+     (Continued)
+
+
+
+
+                                                                                                                                                                                                                                                                                                  To distinguish the wild-type (active) and mutant alleles (loss of
+                                                                                                                                                                                                                                                                                                  function) of the genes related to flowering time and semi-dwarfism,
+                                                                                      Sooner Milo 60-1
+                                                                    Sooner Milo 100
+
+
+
+
+                                                                                                                                                                                                                                                                                                  and to find the seed fertility trait, we applied DNA markers to
+                                                                                                         Sooner Milo 80
+                                                                                                                          Sooner Milo 90
+                   Cultivar name
+
+
+
+
+                                                                                                                                                                                                                                                                                                  34 Japanese cultivars (Figure 1 and Tables 1–3) and to the NIAS
+                                             Senkinshiro
+    TABLE 3
+
+
+                                   SDS7444
+
+
+
+
+                                                                                                                                                                                                                                                                                                  sorghum core collection (Table 4). To distinguish the CMS and bmr
+                                                                                                                                           Waikai
+                                                           SIL-05
+
+
+
+
+                                                                                                                                                                                                                                                                                                  types, we applied additional DNA markers to some cultivars
+                                                                                                                                                                                                                                                                                                  (Figures 2 and 3).
+                                                                                                                                                                                                                           a
+KAWAHIGASHI ET AL.                                                                                                                                 9
+
+
+                                                                                For SbPhyC (Sobic.001G087100), markers Ma5-1 and Ma5-2 were
+                                                                          designed to detect a G to T mutation in the HKRD domain of phyto-
+                                                                          chrome (Yang, Weers, et al., 2014), which was detected by our
+                                                                          sequence comparison; 30 cultivars had wild-type SbPhyC.
+                                                                                For SbGHD7 (Sobic.006G004400), the Ma6-1 marker was
+                                                                          designed to detect a 5-bp insertion, and markers Ma6-2 and Ma6-3
+                                                                          were designed to detect a 9347-bp deletion corresponding to the
+                                                                          C-terminal region. Both mutations lead to the loss of function of
+                                                                          SbGHD7 (Murphy et al., 2014); five cultivars had the wild-type allele.
+                                                                                We analyzed the NIAS sorghum core collection with the DNA
+                                                                          markers for flowering time; the numbers of dominant-type alleles are
+                                                                          shown in Table 4, Panel A. In general, the ratio of the wild-type alleles
+                                                                          of Ma1, Ma4, Ma5, and Ma6 decreased with sorghum propagation
+                                                                          from Africa to East Asia. To be more precise, Ma1 and Ma4 had the
+F I G U R E 1 Sorghum DNA markers for F1 breeding used in this            same trend of the ratio of the wild-type alleles. Only Ma5 showed a
+study. Approximate positions of genes responsible for agronomic
+                                                                          decrease in the ratio of the wild-type alleles with sorghum propaga-
+traits are shown. The names of DNA markers are shown below each
+                                                                          tion from Africa to South and West Asia, and from South and West
+gene name. Polymerase chain reaction (PCR) primer sequences and
+conditions are described in Table S1                                      Asia to East Asia. Ma6 had an increased ratio and then a decreased
+                                                                          ratio with sorghum propagation from Africa to South & West Asia and
+                                                                          then to East Asia. These results suggested that the genes for early
+3.1     |    Flowering time                                               flowering were positively selected by people during the sorghum
+                                                                          propagation. Both Ma1/SbPRR37 mutations seem to have occurred in
+Ma1     to    Ma6    were    analyzed    (Table     1).   Ma1/SbPRR37     Africa. During propagation to South Asia, these mutations seemed to
+(Sobic.006G057866); markers Ma1-1 and Ma1-2 were designed to              have been selected positively. The effect of Ma4/SbCO on flowering
+detect the previously reported mutations (Murphy et al., 2011).           time was also selected in the same manner. Because Ma1/SbPRR37
+Ma1-1 detected a 15-bp deletion and Ma1-2 detected a point                suppresses the promotion of flowering by SbCO, the selection
+mutation (T to C). Based on these DNA markers, seven cultivars out        pressure on both genes could have occurred simultaneously. The
+of 34 had wild-type SbPRR37.                                              Ma5/SbPhyC mutation was selected in South and East Asia.
+      For Ma2/SbEHD1 (Sobic.002G203700), markers Ma2-1 and                The selection appeared to be particularly strong as sorghum was
+Ma2-2 were designed to detect the nonfunctional mutation (Casto           propagated to the northern high-latitude areas. Ma6/SbGHD7 seems
+et al., 2019); 29 cultivars had wild-type SbEHD1.                         to have been eliminated at an early domestication step in Africa,
+      The Ma3/SbPhyB (Sobic.001G394400) can be separated into two         suggesting that the long vegetative state conferred by the SbGHD7
+groups using the Ma3-1 marker. Marker Ma3-2 was designed to               gene may not be preferred because of a delay in harvesting. Interest-
+detect a nonfunctional mutation (Yang, Murphy, et al., 2014) and the      ingly, although mutants of both Ma2 and Ma3 were detected among
+nonfunctional mutation was detected only in the sub-group which           sorghum cultivars, only the wild-type alleles were detected in the
+showed the “l” band by Ma3-1 marker. 30 cultivars had wild-type           NIAS core collection. Thus, these mutations were found and utilized
+SbPhyB.                                                                   relatively later in history and are present in modern sorghum cultivars.
+      Ma4-1 marker was designed at the promoter region of SbCO
+(Sobic.010G115800). Band “g” (394 bp) was considered the non-
+functional allele because ‘Greenleaf’ line #8 contained an 80-bp          3.2     |   Semi-dwarfism
+deletion in the region encoding zinc finger B-box domain. The band
+“u” (303 bp) was considered the wild type because it is present in        So far, three semi-dwarfing genes have been identified (Dw1–Dw3).
+‘BTx623’ (Yang, Weers, et al., 2014). The band “l” (250 bp) was          DNA markers were designed at the mutation positions for Dw1 and
+considered a nonfunctional allele because QTL analysis between            Dw2 in this study, and a previously reported marker was used for
+‘Chohin 232’ (“u” type) and ‘MS138B’ (“l” type) showed a significant      Dw3 (Multani et al., 2003, patent WO2013036595A1). Dw1
+effect on flowering time at the location of SbCO on Chr10 (Takai          (Sobic.009G229800)      has   a    nonsense     mutation     (Yamaguchi
+et al., 2012). Band “u” was detected in 22 cultivars, which were thus     et al., 2016), and markers Dw1-1 and Dw1-2 designed at the SNP
+considered the wild type. Yang, Weers, et al. (2014) reported that        position revealed that 17 cultivars had the wild-type allele (Table 2).
+‘BTx642’ has a recessive allele of SbCO carrying a His106Tyr              Dw2 (Sobic.006G067700) has a 2-bp deletion in the coding sequence
+substitution in the N-terminal zinc-finger B-box domain that may          (Hilley et al., 2017), and markers Dw2-1 and Dw2-2 designed at the
+disrupt the function of CO, because the Arabidopsis allele co-3 has the   position showed that 27 cultivars had the wild-type allele and
+same substitution and is nonfunctional (Robson et al., 2001).             two were heterozygotes. At Dw3 (Sobic.007G163800), 24 cultivars
+However, we did not use ‘BTx642’ in this study.                           had the wild-type allele. The cultivars without amplified bands
+10                                                                                                                                      KAWAHIGASHI ET AL.
+
+
+TABLE 4        Numbers of dominant-type alleles by DNA marker analysis in NIAS sorghum core collection
+
+  A: Flowering time
+
+                                                                                             Flowering gene
+
+                                                     SbPRR37              SbEHD1             SbPhyB                SbCO        SbPhyC             SbGHD7
+  Area                          Total number         Ma1                  Ma2                Ma3                   Ma4?        Ma5                Ma6
+  Africa                        52                   28 (53.8)            52 (100)           52 (100)              24 (46.2)   48 (92.3)          5 (9.6)
+  South and West Asia           31                    2 (6.5)             31 (100)           31 (100)               7 (22.6)   14 (45.2)          7 (22.5)
+  East Asia                     24                    2 (8.3)             24 (100)           24 (100)               6 (25.0)    7 (29.1)          0 (0)
+
+  B: Semi-dwarfism
+
+                                                                                                        Semi-dwarf gene
+
+  Area                               Total number                Dw1                                    Dw2                           Dw3
+  Africa                             52                          47 (90.4)                              49 (94.2)                     38 (73.1)
+  South and West Asia                31                          28 (90.3)                              31 (100)                      27 (87.1)
+  East Asia                          24                          21 (87.5)                              24 (100)                      21 (87.5)
+
+  C: Fertility restorers
+
+                                                                                                         Rf region
+
+  Area                                Total number                Rf1                                    Rf2                          Rf5
+  Africa                              52                          1 (1.9)                                4 (7.8)                      1 (1.9)
+  South and West Asia                 31                          0 (0)                                  1 (3.2)                      7 (22.5)
+  East Asia                           24                          0 (0)                                  0 (0)                        9 (37.5)
+
+Note: Percentage is indicated in parentheses.
+
+
+
+
+                                                                                and the paternal lines have tall features to cross-pollinate effectively.
+                                                                                The early prediction of plant height by using these DNA markers is
+                                                                                quite helpful for the breeding program. In addition, sweet sorghum
+                                                                                (‘RIO,’ ‘Keller,’ and ’SIL-05’) had all three wild-type genes, which is
+                                                                                consistent with the expected higher biomass production.
+                                                                                      In the NIAS core collection, as expected, the wild-type alleles of
+F I G U R E 2 Polymerase chain reaction (PCR) analysis of
+cytoplasmic–nuclear male sterile (CMS) and maintenance lines of each            the semi-dwarfing genes were predominant (73%–100%, Table 4,
+cultivar pair. The A-line-specific marker from the ‘ATx623’                     Panel B), which is consistent with the fact the semi-dwarfism was
+mitochondrial DNA sequence and the B-line-specific marker from the              introduced in modern sorghum breeding to control plant height for
+‘BTx623’ mitochondrial DNA sequence were mixed and used for PCR                 machine harvesting (Quinby & Karper, 1954). Three genomic regions
+analysis of each cultivar (Table S1). B-line, maintenance line; A-line,
+                                                                                associated with temperate adaptation for grain production in sorghum
+CMS line. M, DNA marker; 1, ‘MS3A’; 2, ‘MS3B’; 3, ‘MS21A’; 4,
+                                                                                have been reported that contained the Dw1, Dw2, and Dw3 loci and
+‘MS21B’; 5, ‘MS79A’; 6, ‘MS79B’; 7, ‘MS138A’ 8, ‘MS138B’; 9,
+‘MS175A’; 10, ‘MS175B’; 11, ‘ATx623’; 12, ‘BTx623’                              flowering-time loci (Thurber et al., 2013). The region harboring Ma1
+                                                                                and Dw2 on Chr6 is an introgressed region; together with the Dw1
+                                                                                gene region on Chr9, it is selected by phenotypic evaluation (Thurber
+were considered dw3. In addition to the duplication of the gene,                et al., 2013). Recently, a new QTL for plant height, qHT7.1, was
+several types of loss-of-function mutations have been reported                  identified near the Dw3 region (Li et al., 2015), which may have been
+(WO2013036595A1); however, a detailed analysis was not per-                     selected together with Dw3. A more precise prediction of plant height
+formed in this study. At least one of the semi-dwarfing mutations               would require the DNA markers for both Dw4 and qHT7.1.
+was found in 19 cultivars. In our results, grain type sorghum and the
+maternal parental lines for F1 hybrids such as ‘BTx623’ contained
+one to three semi-dwarfing mutations. The paternal parental lines for           3.3      |    Fertility restorer genes and CMS
+F1 hybrids such as ‘Chohin232’ and ‘JN43,’ and sudangrass
+(‘Greenleaf line #8,’ ‘H137,’ and ‘JN501’) likely have all three wild-          The causal mutations in the restorer genes Rf1 (Sobic.008G147400)
+type genes, but some had dw1 mutant gene. For the production of F1              and Rf2 (Sobic.002G057050) for CMS have not yet been identified.
+hybrids, the maternal parental lines for F1 hybrids have short stems            Based on Rf phenotype in crossing experiments, phylogenetic trees,
+KAWAHIGASHI ET AL.                                                                                                                               11
+
+
+                                                                            have the A1 cytoplasm, the same as in ‘ATx623.’ ‘MS21A’ may have
+                                                                            an SNP different from that in ‘ATx623’ or perhaps the A2 cytoplasm
+                                                                            (Schertz & Ritchey, 1977).
+
+
+
+                                                                            3.4       |    Brown midrib
+
+                                                                            It is not well documented which of the three known types of brown
+                                                                            midrib mutations (bmr-2, bmr-6, or bmr-18) are used in cultivars in
+                                                                            Japan. We designed three sets of DNA markers to detect these muta-
+                                                                            tions (Figure 3). The bmr cultivars ‘AMP11,’ ‘BMP11,’ ‘AMP12,’ and
+                                                                            ‘BMP12’ were found to have the bmr-2 mutation. In addition to the
+                                                                            cultivar ‘bmr-6,’ which is known to have the bmr-6 mutation, this
+                                                                            mutation was found in ‘AMP13,’ ‘BMP13,’ ‘AMP14,’ and ‘BMP14.’
+                                                                            Other bmr cultivars had the bmr-18 mutation, which is often used for
+                                                                            breeding in Japan, for example using ‘MS3B’ and ‘JN43’ as parents
+                                                                            (Kiyosawa, 2015). Because each mutation is recessive, the DNA
+
+F I G U R E 3 Polymerase chain reaction (PCR) analysis of bmr-2,            markers can be helpful to distinguish the bmr types and to facilitate
+bmr-6, and bmr-18. DNA markers for each bmr mutation were                   F1 sorghum breeding.
+designed and analyzed. PCR conditions are described in Table S1. (a)
+1, ‘MS3B’; 2, ‘D36B’; 3, ‘AMP11’; 4, ‘BMP11’; 5, ‘AMP12’; 6,
+‘BMP12,’ 7, ‘SS603’; 8, ‘SS632.’ (b) 1, ‘AMP11’; 2, ‘BMP11’; 3,
+                                                                            4     |       CONC LU SIONS
+‘AMP12’; 4, ‘BMP12’; 5, ‘AMP13’; 6, ‘BMP13,’ 7, ‘AMP14’; 8,
+‘BMP14.’ (c) 1, ‘BTx623’; 2, ‘bmr6’; 3, ‘JN43’; 4, ‘MS3B’; 5, ‘SIL-05’;
+6, ‘Greenleaf’; 7, ‘M36001’; 8, ‘MS138B’                                    We developed the functional DNA markers for sorghum involved in
+                                                                            the agronomic traits such as flowering time, semi-dwarfism, CMS and
+                                                                            Rf genes, and bmr genes. We applied these markers to Japanese culti-
+and sequence comparison of the Rf1 gene, we designed the DNA                vars and NIAS core collection and showed the usefulness of these
+markers Rf1-1 to Rf1-6 to check for SNPs that may result in loss of         DNA markers to distinguish the gene allele. The DNA markers can be
+function and found that six of the 34 cultivars had a presumably func-      used for the variation of landraces and transition during the domesti-
+tional Rf1 gene (Table 3) including three previously reported restorer      cation and developmental process of cultivars. In sorghum, useful
+varieties (‘F6-3A-5,’ ‘JN107,’ and ‘JN43’; Kiyosawa et al., 2020). The      agronomic phenotypes are often recessive, so relevant allelic informa-
+Rf2 gene contained an insertion and an SNP that may result in the loss      tion is a powerful tool for sorghum breeding. In commercial produc-
+of function of the PPR protein. We designed the DNA markers Rf2-1           tion of new types of F1 hybrid sorghum, the available DNA markers
+and Rf2-2 to detect these mutations. Using these markers, we found          can be expected to facilitate phenotype prediction and improve the
+that 10 cultivars had functional Rf2, including two reported previously     efficiency of seedling selection.
+(‘Chohin 232’ and ‘JN358’; Kiyosawa et al., 2020). The Rf5 region
+contains genes encoding seven PRR proteins (Jordan et al., 2011). We        ACKNOWLEDG MENTS
+designed the Rf5-1 and Rf5-2 DNA markers by comparing sequences             This work was partly supported by grants from the Ministry of
+and found that nine cultivars had Rf5, including five restorer cultivars    Agriculture, Forestry and Fisheries of Japan (Genomics for Agricultural
+(‘JN503,’ ‘Daikoukaku,’ ‘JN43,’ ‘SDS7444,’ and ‘Senkinshiro’), con-         Innovation, QTL-5502 and QTL-5506) and by a Research Program on
+sistent with the phenotypes in crossing experiments (Kiyosawa               Development of Innovative Technology (28037C) from the same
+et al., 2020). In the NIAS core collection, Rf1 and Rf2 were rare           Ministry.
+(Table 4, Panel C). Rf5 was more common in landraces from South and
+West Asia (22.5%) and East Asia (37.5%) than from Africa (1.9%).
+                                                                            ORCID
+    To distinguish the CMS cytoplasm, we compared the mitochon-
+                                                                            Hiroyuki Kawahigashi     https://orcid.org/0000-0001-6278-8583
+drial DNA of ‘ATx623’ (CMS) and ‘BTx623,’ designed specific DNA
+                                                                            Jun-ichi Yonemaru      https://orcid.org/0000-0003-0151-4401
+markers for each mitochondrial DNA (Figure S1), and used a mixture
+                                                                            Hiroshi Mizuno      https://orcid.org/0000-0002-4110-4717
+of these markers for PCR analysis of each parental cultivar (Figure 2).
+For each cultivar, the A-line (e.g., ‘MS3A’) is a CMS line and the B-line
+                                                                            RE FE RE NCE S
+(e.g., ‘MS3B’) is the maintenance line; both lines contain the same
+                                                                            Bout, S., & Vermerris, W. (2003). A candidate-gene approach to clone the
+nuclear DNA, but the mitochondrial DNA is different. The A-lines
+                                                                                 sorghum Brown midrib gene encoding caffeic acid O-methyl-
+were distinguishable from B-lines except for the ‘MS21A’ and                     transferase. Molecular Genetics and Genomics, 269(2), 205–214.
+‘MS21B’ pair (Figure. 2). Thus, most of the CMS lines used in Japan              https://doi.org/10.1007/s00438-003-0824-4
+12                                                                                                                                             KAWAHIGASHI ET AL.
+
+
+Brown, P. J., & Paterson, A. H. (2013). Bridging classical and molecular                 Proceedings of the National Academy of Sciences USA, 108,
+       genetics of sorghum plant stature and maturity. In Genomics of the                16469–16474. https://doi.org/10.1073/pnas.1106212108
+       Saccharinae (pp. 333–346). New York: Springer. https://doi.org/10.          Murphy, R. L., Morishige, D. T., Brady, J. A., Rooney, W. L., Yang, S.,
+       1007/978-1-4419-5947-8_14                                                         Klein, P. E., & Mullet, J. E. (2014). Ghd7 (Ma6) represses sorghum
+Casto, A. L., Mattison, A. J., Olson, S. N., Thakran, M., Rooney, W. L., &               flowering in long days: Ghd7 Alleles enhance biomass accumulation
+       Mullet, J. E. (2019). Maturity2, a novel regulator of flowering time in           and grain production. Plant Genome, 7(2). https://doi.org/10.3835/
+       Sorghum bicolor, increases expression of SbPRR37 and SbCO in long                 plantgenome2013.11.0040
+       days delaying flowering. PLoS ONE, 14(4), e0212154. https://doi.            Oliver, A. L., Grant, R. J., Pedersen, J. F., & O’Rear, J. (2004). Comparison
+       org/10.1371/journal.pone.0212154                                                  of brown midrib-6 and -18 forage sorghum with conventional sor-
+Childs, K. L., Miller, F. R., Cordonnier-Pratt, M. M., Pratt, L. H.,                     ghum and corn silage in diets of lactating dairy cows. Journal of Dairy
+       Morgan, P. W., & Mullet, J. E. (1997). The sorghum photoperiod sen-               Science, 87(3), 637–644. https://doi.org/10.3168/jds.S0022-0302
+       sitivity gene, Ma3, encodes a phytochrome B. Plant Physiology, 113                (04)73206-3
+       (2), 611–619. https://doi.org/10.1104/pp.113.2.611                          Oliver, A. L., Pedersen, J. F., Grant, R. J., & Klopfenstein, T. J. (2005).
+Handa, H., Ohkawa, Y., & Nakajima, K. (1990). Mitochondrial genome of                    Comparative effects of the sorghum bmr-6 and bmr-12 genes.
+       rapeseed (Brassica napus L.). 1. Intraspecific variation of mitochon-             I. Forage sorghum yield and quality. Crop Science, 5, 2234–2239.
+       drial DNA. The Japanese Journal of Genetics, 65, 17–24. https://doi.        Paterson, A. H., Bowers, J. E., Bruggmann, R., Dubchak, I., Grimwood, J.,
+       org/10.1266/jjg.65.17                                                             Gundlach, H., Haberer, G., Hellsten, U., Mitros, T., Poliakov, A.,
+Hilley, J. L., Weers, B. D., Truong, S. K., McCormick, R. F., Mattison, A. J.,           Schmutz, J., Spannagl, M., Tang, H., Wang, X., Wicker, T., Bharti, A. K.,
+       McKinley, B. A., Morishige, D. T., & Mullet, J. E. (2017). Sorghum                Chapman, J., Feltus, F. A., Gowik, U., … Rokhsar, D. S. (2009). The
+       Dw2 encodes a protein kinase regulator of stem internode length.                  Sorghum bicolor genome and the diversification of grasses. Nature,
+       Scientific Reports, 7(1), 4616. https://doi.org/10.1038/s41598-017-               457, 551–556. https://doi.org/10.1038/nature07723
+       04609-5                                                                     Praveen, M., Uttam, G. A., Tonapi, V. A., & Madhusudhana, R. (2018). Fine
+Jordan, D. R., Klein, R. R., Sakrewski, K. G., Henzell, R. G., Klein, P. E., &           mapping of Rf2, a major locus controlling pollen fertility restoration
+       Mace, E. S. (2011). Mapping and characterization of Rf5: A new gene               in sorghum A1 cytoplasm, encodes a PPR gene and its validation
+       conditioning pollen fertility restoration in A1 and A2 cytoplasm in               through expression analysis. Plant Breeding, 137(2), 148–161.
+       sorghum (Sorghum bicolor (L.) Moench). Theoretical and Applied              Quinby, J. R., & Karper, R. E. (1954). Inheritance of height in sorghum.
+       Genetics, 123(3), 383–396. https://doi.org/10.1007/s00122-011-                    Agronomy Journal, 46, 211–216. https://doi.org/10.2134/
+       1591-y                                                                            agronj1954.00021962004600050007x
+Kante, M., Rattunde, H. F. W., Nébié, B., Weltzien, E., Haussmann, B. I. G.,       Rao, S. A., Prasada Rao, K. E., Mengesha, M. H., & Reddy, V. G. (1996).
+       & Leiser, W. L. (2018). QTL mapping and validation of fertility                   Morphological diversity in sorghum germplasm from India. Genetic
+       restoration in West African sorghum A1 cytoplasm and identification               Resources and Crop Evolution, 43, 559–567. https://doi.org/10.1007/
+       of a potential causative mutation for Rf2. Theoretical and Applied                BF00138832
+       Genetics, 131(11), 2397–2412. https://doi.org/10.1007/s00122-               Robson, F., Costa, M. M., Hepworth, S. R., Vizir, I., Pineiro, M.,
+       018-3161-z                                                                        Reeves, P. H., Putterill, J., & Coupland, G. (2001). Functional impor-
+Kimber, C. (2000). Origins of domesticated sorghum and its early diffusion               tance of conserved domains in the flowering-time gene CONSTANS
+       to India and China. In C. W. Smith & R. A. Frederiksen (Eds.),                    demonstrated by analysis of mutant alleles and transgenic plants.
+       Sorghum: Origin, history, technology, and production (pp. 3–99). John             Plant Journal, 28(6), 619–631.
+       Wiley &Sons, Inc.                                                           Saballos, A., Sattler, S. E., Sanchez, E., Foster, T. P., Xin, Z., Kang, C.,
+Kiyosawa, A. (2015). The trend of recent sorghum breeding. Japanese Jour-                Pedersen, J. F., & Vermerris, W. (2012). Brown midrib2 (Bmr2)
+       nal of Grassland Science, 61(3), 177–183.                                         encodes the major 4-coumarate:coenzyme A ligase involved in
+Kiyosawa, A., Yonemaru, J., Kawahigashi, H., & Goto, K. (2020). Analysis of              lignin biosynthesis in sorghum (Sorghum bicolor (L.) Moench). Plant
+       quantitative trait loci for fertility restoration in seven F2 populations         Journal, 70(5), 818–830. https://doi.org/10.1111/j.1365-313X.2012.
+       derived from sorghum F1 hybrids bred in Japan. Breeding Science, 70               04933.x
+       (3), 379–386. https://doi.org/10.1270/jsbbs.19144                           Sattler, S. E., Saathoff, A. J., Haas, E. J., Palmer, N. A., Funnell-Harris, D. L.,
+Klein, R. R., Klein, P. E., Mullet, J. E., Minx, P., Rooney, W. L., &                    Sarath, G., & Pedersen, J. F. (2009). A nonsense mutation in a
+       Schertz, K. F. (2005). Fertility restorer locus Rf1 of sorghum (Sorghum           cinnamyl alcohol dehydrogenase gene is responsible for the Sorghum
+       bicolor L.) encodes a pentatricopeptide repeat protein does not pre-              brown midrib6 phenotype. Plant Physiology, 150(2), 584–595.
+       sent in the colinear region of rice chromosome 12. Theoretical and                https://doi.org/10.1104/pp.109.136408
+       Applied Genetics, 111(6), 994–1012. https://doi.org/10.1007/                Schertz, K. F., & Ritchey, J. M. (1977). Registration of A2.Tx2753 and B.
+       s00122-005-2011-y                                                                 Tx2753 sorghum germplasm. Crop Science, 17, 890–893.
+Li, X., Li, X., Fridman, E., Tesso, T. T., & Yu, J. (2015). Dissecting repulsion   Shehzad, T., Okuizumi, H., Kawase, M., & Okuno, K. (2009). Development
+       linkage in the dwarfing gene Dw3 region for sorghum plant height                  of SSR-based sorghum [Sorghum bicolor (L.) Moench] diversity
+       provides insights into heterosis. Proceedings of the National Academy             research set of germplasm and its evaluation by morphological traits.
+       of Sciences USA, 112, 11823–11828. https://doi.org/10.1073/pnas.                  Genetic Resources and Crop Evolution, 56, 809–827. https://doi.org/
+       1509229112                                                                        10.1007/s10722-008-9403-1
+Multani, D. S., Briggs, S. P., Chamberlin, M. A., Blakeslee, J. J.,                Stephens, J. C., & Holland, R. F. (1954). Cytoplasmic male-sterility for
+       Murphy, A. S., & Johal, G. S. (2003). Loss of an MDR transporter in               hybrid sorghum seed production. Agronomy Journal, 46, 20–23.
+       compact stalks of maize br2 and sorghum dw3 mutants. Science, 302                 https://doi.org/10.2134/agronj1954.00021962004600010006x
+       (5642), 81–84. https://doi.org/10.1126/science.1086072                      Takai, T., Yonemaru, J., Kaidai, H., & Kasuga, S. (2012). Quantitative trait
+Murphy, R. L., Klein, R. R., Morishige, D. T., Brady, J. A., Rooney, W. L.,              locus analysis for days-to-heading and morphological traits in an RIL
+       Miller, F. R., Dugas, D. V., Klein, P. E., & Mullet, J. E. (2011).                population derived from an extremely late flowering F1 hybrid of sor-
+       Coincident light and clock regulation of pseudoresponse regulator                 ghum. Euphytica, 187(3), 411–420. https://doi.org/10.1007/s10681-
+       protein 37 (PRR37) controls photoperiodic flowering in sorghum.                   012-0727-8
+KAWAHIGASHI ET AL.                                                                                                                                     13
+
+
+Thurber, C. S., Ma, J. M., Higgins, R. H., & Brown, P. J. (2013). Retrospec-          BMC Plant Biology, 14, 148. https://doi.org/10.1186/1471-2229-
+     tive genomic analysis of sorghum adaptation to temperate-zone                    14-148
+     grain production. Genome Biology, 14(6), R68. https://doi.org/10.            Yonemaru, J., Ando, T., Mizubayashi, T., Kasuga, S., Matsumoto, T., &
+     1186/gb-2013-14-6-r68                                                            Yano, M. (2009). Development of genome-wide simple sequence
+Winchell, F., Brass, M., Manzo, A., Beldados, A., Perna, V., Murphy, C.,              repeat markers using whole-genome shotgun sequences of sorghum
+     Stevens, C., & Fuller, D. Q. (2018). On the origins and dissemination            (Sorghum bicolor (L.) Moench). DNA Research, 16, 187–193. https://
+     of domesticated sorghum and pearl millet across Africa and into                  doi.org/10.1093/dnares/dsp005
+     India: A view from the Butana Group of the far eastern Sahel. African
+     Archaeological Review, 35, 483–505. https://doi.org/10.1007/
+                                                                                  SUPPORTING INFORMATION
+     s10437-018-9314-2
+Yamaguchi, M., Fujimoto, H., Hirano, K., Araki-Nakamura, S., Ohmae-               Additional supporting information may be found online in the
+     Shinohara, K., Fujii, A., Tsunashima, M., Song, X. J., Ito, Y., Nagae, R.,   Supporting Information section at the end of this article.
+     Wu, J., Mizuno, H., Yonemaru, J., Matsumoto, T., Kitano, H.,
+     Matsuoka, M., Kasuga, S., & Sazuka, T. (2016). Sorghum Dw1, an
+     agronomically important gene for lodging resistance, encodes a novel            How to cite this article: Kawahigashi, H., Yonemaru, J.,
+     protein involved in cell proliferation. Scientific Reports, 6, 28366.           Kiyosawa, A., Mizuno, H., & Kasuga, S. (2021). DNA marker
+     https://doi.org/10.1038/srep28366
+                                                                                     analysis of flowering time, semi-dwarf, fertility restorer, and
+Yang, S., Murphy, R. L., Morishige, D. T., Klein, P. E., Rooney, W. L., &
+     Mullet, J. E. (2014). Sorghum phytochrome B inhibits flowering in               brown midrib genes in sorghum (Sorghum bicolor [L.]
+     long days by activating expression of SbPRR37 and SbGHD7, repres-               Moench). Grassland Science, 1–13. https://doi.org/10.1111/
+     sors of SbEHD1, SbCN8 and SbCN12. PLoS ONE, 9(8), e105352.                      grs.12343
+     https://doi.org/10.1371/journal.pone.0105352
+Yang, S., Weers, B. D., Morishige, D. T., & Mullet, J. E. (2014). CONSTANS
+     is a photoperiod regulated activator of flowering in sorghum.
+
