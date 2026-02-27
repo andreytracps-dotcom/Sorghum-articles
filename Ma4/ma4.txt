@@ -1,0 +1,1035 @@
+Yang et al. BMC Plant Biology 2014, 14:148
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+ RESEARCH ARTICLE                                                                                                                             Open Access
+
+CONSTANS is a photoperiod regulated activator of
+flowering in sorghum
+Shanshan Yang, Brock D Weers, Daryl T Morishige and John E Mullet*
+
+
+  Abstract
+  Background: Sorghum genotypes used for grain production in temperate regions are photoperiod insensitive and
+  flower early avoiding adverse environments during the reproductive phase. In contrast, energy sorghum hybrids
+  are highly photoperiod sensitive with extended vegetative phases in long days, resulting in enhanced biomass
+  accumulation. SbPRR37 and SbGHD7 contribute to photoperiod sensitivity in sorghum by repressing expression
+  of SbEHD1 and FT-like genes, thereby delaying flowering in long days with minimal influence in short days
+  (PNAS_108:16469-16474, 2011; Plant Genome_in press, 2014). The GIGANTEA (GI)-CONSTANS (CO)-FLOWERING
+  LOCUS T (FT) pathway regulates flowering time in Arabidopsis and the grasses (J Exp Bot_62:2453-2463, 2011). In
+  long day flowering plants, such as Arabidopsis and barley, CONSTANS activates FT expression and flowering in long
+  days. In rice, a short day flowering plant, Hd1, the ortholog of CONSTANS, activates flowering in short days and
+  represses flowering in long days.
+  Results: Quantitative trait loci (QTL) that modify flowering time in sorghum were identified by screening Recombinant
+  Inbred Lines (RILs) derived from BTx642 and Tx7000 in long days, short days, and under field conditions. Analysis of the
+  flowering time QTL on SBI-10 revealed that BTx642 encodes a recessive CONSTANS allele containing a His106Tyr
+  substitution in B-box 2 known to inactivate CONSTANS in Arabidopsis thaliana. Genetic analysis characterized sorghum
+  CONSTANS as a floral activator that promotes flowering by inducing the expression of EARLY HEADING DATE 1 (SbEHD1)
+  and sorghum orthologs of the maize FT genes ZCN8 (SbCN8) and ZCN12 (SbCN12). The floral repressor PSEUDORESPONSE
+  REGULATOR PROTEIN 37 (PRR37) inhibits sorghum CONSTANS activity and flowering in long days.
+  Conclusion: Sorghum CONSTANS is an activator of flowering that is repressed post-transcriptionally in long days by
+  the floral inhibitor PRR37, contributing to photoperiod sensitive flowering in Sorghum bicolor, a short day plant.
+  Keywords: Photoperiod, Sorghum, Flowering time, QTL, CONSTANS, PRR37
+
+
+Background                                                                          order to delay flowering and extend the duration of
+Optimal regulation of the timing of floral transition is                            vegetative growth, resulting in more than 2-fold in-
+critically important for reproductive success and crop                              creases in biomass production [3,4]. The stage of plant
+yield. The C4 grass Sorghum bicolor is widely adapted                               development, signals from photoperiod, temperature, gib-
+and grown as an annual crop from 0 to >40 degrees N/S                               berellins and other factors are integrated to regulate flow-
+latitude. Sorghum crops have been selected for a range                              ering time in sorghum [5].
+of flowering times depending on growing location and                                   The genetic architectures of photoperiod-responsive
+use as a source of grain, sugar, forage, or biomass [1-3].                          flowering-time regulatory pathways have been character-
+Grain sorghum is generally selected for early flowering                             ized in many plants [6-18]. In Arabidopsis, flowering is
+(60–80 days) to enhance grain yield stability by avoiding                           promoted in long-days (LD) by coincidence of light signal-
+drought, adverse temperatures, and insect pressure dur-                             ing and circadian clock output, thus allowing the plant to
+ing the reproductive phase. In contrast, energy sorghum                             sense and respond to seasonal changes in photoperiod.
+hybrids are designed with high photoperiod sensitivity in                           Clock output to the flowering pathway is mediated in part
+                                                                                    by GIGANTEA (GI). GI is regulated by the central clock
+* Correspondence: jmullet@neo.tamu.edu                                              oscillator comprised of TIMING OF CAB EXPRESSION 1
+Department of Biochemistry and Biophysics, Texas A&M University, College
+Station, TX 77843-2128, USA                                                         (TOC1), CIRCADIAN CLOCK ASSOCIATED 1 (CCA1)
+
+                                       © 2014 Yang et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+                                       Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+                                       reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+                                       Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+                                       unless otherwise stated.
+Yang et al. BMC Plant Biology 2014, 14:148                                                                  Page 2 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+and LATE ELONGATED HYPOCOTYL (LHY). In long                 flowering time loci that enhance photoperiod sensitiv-
+days, GI activates CONSTANS (CO) expression in conjunc-     ity in sorghum [25,29].
+tion with FLAVIN-binding KELCH DOMAIN F BOX                    CONSTANS (CO) was initially identified as a tran-
+PROTEIN1 (FKF1) by inducing degradation of CDF1             scriptional activator of FT and flowering in Arabidopsis
+repressors of CONSTANS transcription. CO accumulates        [30]. CO belongs to a family of transcription factors
+in LD due to stabilization mediated by cryptochromes        unique to plants that contain one or two N-terminal
+(CRY1/2), phytochrome A (PHYA) and SUPPRESSOR OF            zinc finger B-box domains and a C-terminal CCT do-
+PHYA-105 (SPA1) that counteract degradation of CO me-       main. Two conserved cysteine and histidine amino acids
+diated by phytochrome B (PHYB): CONSTITUTIVE                in the Zn finger domain are essential for CO activity
+PHOTOMORPHOGENIC 1(COP1) [6,9]. Increased CO                [6]. Arabidopsis mutants with amino acid substitutions
+protein levels in long days leads to the activation of      at these positions have late flowering phenotypes. Ex-
+FLOWERING LOCUS T (FT) expression and production            tensive gene duplication events have occurred in this
+of florigen that moves from leaves to shoot apical meri-    gene family, resulting in ~17 CO family members in
+stems (SAM) where it binds to FD and induces floral         Arabidopsis, ~16 in rice and ~9 in barley [31,32]. The
+transition.                                                 ortholog of CONSTANS in rice, Hd1, plays a key role
+   The GI-CO-FT regulatory pathway identified in Arabi-     in photoperiod regulation of flowering, by activating
+dopsis, a long day (LD) plant, is also present in rice, a   flowering in SD and repressing flowering in LD [19].
+short day (SD) plant [10]. When rice is exposed to in-      Alleles of Hd1 account for ~44% of the variation in flower-
+ductive SD, HEADING DATE1 (Hd1), the ortholog of            ing time observed in cultivated rice [33]. Hd1 transcript
+CO, activates expression of the FT-like gene Hd3a, one      and protein levels are similar in LD and SD, consistent
+of two sources of florigen in rice. In non-inductive LD,    with the finding that Hd1 activity is modulated post-
+Hd1 functions as a repressor of Hd3a and flowering          transcriptionally by PHYB [34] and PRR37 [35,36].
+[19]. Thus, photoperiod sensitivity in rice depends in
+part on differences in the activity of CO (Hd1) in          Results
+long days and short days. Two modulators of flower-         Identification of flowering time QTL
+ing time unique to grasses were identified in rice:         Flowering time QTL were mapped in a RIL population
+EARLY HEADING DATE 1 (EHD1) [20] and GRAIN                  derived from a cross of BTx642 and Tx7000, genotypes
+NUMBER, PLANT HEIGHT AND HEADING DATE 7                     used in U.S. grain sorghum breeding programs as sources
+(GHD7) [21,22]. EHD1 activates the expression of Hd3a       of drought tolerance [37]. A RIL population (n = 90) de-
+and RICE FLOWERING LOCUS T1 (RFT1), a source of             rived from these genotypes was previously used to map
+florigen in long days. GHD7 represses flowering by down-    QTL for flowering time and the stay-green drought toler-
+regulating expression of EHD1 and Hd3a in LD in rice        ance trait using a genetic map based on RFLP markers
+[23] and SbEHD1 and SbCN8 in sorghum [2].                   [38]. The genomes of BTx642 and Tx7000 were recently
+   The effect of photoperiod on flowering time varies ex-   sequenced and analyzed for variation in DNA polymor-
+tensively among and within grass species. Barley and        phisms that distinguish these genotypes [39]. Digital
+wheat are LD plants, while rice and sorghum are SD          Genotyping was used to create a high-resolution genetic
+plants. Most cultivated maize is photoperiod insensitive    map aligned to the genome sequence based on this RIL
+therefore plants flower after a set number of degree        population [39,40]. Digital Genotyping identified 1,462
+days; however tropical maize is a photoperiod sensitive     SNP markers segregating in the RIL population and
+short day plant [11]. Sorghum is a short day plant, al-     data on recombination frequency was used to create a
+though grain sorghum is usually photoperiod insensitive,    1139 cM genetic map spanning the 10 sorghum chromo-
+and forage and energy sorghum genotypes exhibit vary-       somes [39]. Flowering time QTL were mapped in this
+ing degrees of photoperiod sensitivity [3]. More than 40    population by phenotyping the RIL population for days
+QTL for flowering time have been identified in sor-         to half pollen shed in greenhouses in 14 h long days
+ghum [24]. The Ma1-Ma4 loci were discovered while           (LD), 10 h short days (SD), and under field conditions
+breeding for early flowering photoperiod insensitive        where day length increases following plant emergence in
+grain sorghum in the U.S. (1920–1960) [25]. Ma1 corre-      mid-April from 12.6 h to 14.3 h in July. Tx7000 flowered
+sponds to PSEUDORESPONSE REGULATOR PROTEIN                  in 73 days and BTx642 flowered approximately 4 days
+37 (SbPRR37), a repressor of flowering in LD [1]. Ma3       later under field conditions in College Station, Texas.
+encodes PHYTOCHROME B (PhyB), a red-light photo-            When grown in a greenhouse at constant 14 h day
+receptor that plays an important role in photoperiod        lengths (LD) during the summer, Tx7000 flowered in
+sensing and repression of flowering [26-28]. Ma6 en-        84 days and BTx642 flowered ~19 days later (Figure 1A).
+codes SbGhd7, a repressor of SbEHD1 expression and          When Tx7000 and BTx642 were grown in a greenhouse
+flowering in long days [2]. Ma2, Ma4, and Ma5 are           under 10 h day lengths (SD) during the winter, Tx7000
+Yang et al. BMC Plant Biology 2014, 14:148                                                              Page 3 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+                                                 Figure 1 Genetic basis of flowering time variation in the
+                                                 BTx642/Tx7000 RIL population. (A). Flowering time phenotypes of
+                                                 BTx642 and Tx7000 in LD. (Days to flowering for BTx642 and Tx7000
+                                                 are 103 and 84.) Flowering time QTL identified when RIL population
+                                                 were grown in a LD greenhouse (B), under field conditions in 2008
+                                                 (C) and in a SD greenhouse (D). Permutation tests were carried out
+                                                 to identify 95% confidence thresholds and significant threshold of
+                                                 LOD score is presented as a horizontal red line. Candidate genes
+                                                 associated with main affect QTL are noted above peaks.
+
+
+
+                                                flowered in 54 days whereas BTx642 flowered ~11 days
+                                                later.
+                                                   The BTx642/Tx7000 RIL population was grown and
+                                                assayed for days to flowering under field conditions in
+                                                2008–2010, in LD greenhouses in 2009 and 2010, and in
+                                                a SD greenhouse during the winter of 2011. WinQTL
+                                                Cartographer was used to identify flowering time QTL
+                                                using flowering time data collected from each location/
+                                                year and the genetic map generated by Evans et al. [39].
+                                                Three QTL for flowering time were observed in every
+                                                environment and two additional QTL were identified in
+                                                only one environment (Table 1).
+                                                   Three flowering time QTL were identified when RILs
+                                                were screened in LD greenhouse conditions (Figure 1B).
+                                                The QTL on SBI-01 (19.2-22.0 Mbp) explained 12.3% of
+                                                the phenotypic variance for flowering time in this envir-
+                                                onment. SbEHD1, an activator of flowering in grasses lo-
+                                                cated on SBI-01 (Sb01g019980, 21921315–21925396)
+                                                was found in a one LOD interval spanning this QTL.
+                                                SbEHD1 was previously identified as a floral activator in
+                                                sorghum based on sequence similarity to rice EHD1 and
+                                                observed changes of SbEHD1 expression in LD com-
+                                                pared to SD, consistent with this function [1]. There
+                                                were no amino acid differences between the SbEhd1
+                                                protein sequences from Tx7000 and BTx623. BTx623 is
+                                                a grain sorghum used extensively for breeding, genetic,
+                                                and genomic research [40]. However, comparison of
+                                                SbEhd1 from BTx642 and Tx7000 revealed two amino
+                                                acid substitutions, Asp144Asn and Thr157Ile (Additional
+                                                file 1: Table S1). The differences in Ehd1 protein se-
+                                                quences occur in a GARP domain that is highly con-
+                                                served among OsEHD1, SbEHD1 and ARABIDOPSIS
+                                                RESPONSE REGULATOR 1/2 (ARR1/2). The SbEHD1
+                                                allele in BTx642 (tentatively designated Sbehd1-2) delays
+                                                flowering in LD and SD relative to Tx7000 (SbEHD1-1),
+                                                consistent with the hypothesis that the amino acid changes
+                                                in Sbehd1-2 reduce the activity of this floral activator and
+                                                explaining why a flowering time QTL was detected in this
+                                                region of SBI-01.
+                                                   A flowering time QTL located on SBI-10 (10.1-13.7
+                                                Mbp) was observed in all environments and spanned a re-
+                                                gion that encodes a homolog of CONSTANS and Hd1
+                                                (Sb10g010050, 12275128–12276617), an important regula-
+                                                tor of flowering time in Arabidopsis and rice, respectively
+Yang et al. BMC Plant Biology 2014, 14:148                                                                                                             Page 4 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+Table 1 Parameters of flowering time QTLs in BTx642/Tx7000 RILs population
+                                                                     Greenhouse LD (14 h)
+QTL       Candidate gene           Chromosome number               Position (cM)a        LOD score           Peak coordinateb           Additive effectc         R2d
+    1            EHD1                       Chr_01                      102.7                8.31           22012456- 22012527                 -6.25            0.12
+                      e
+    2            ND                         Chr_08                       67.9                5.82           50255989- 50256060                 -5.02            0.08
+    3             CO                        Chr_10                       61.7                18.43          13696999- 13697070                -12.69            0.40
+                                                                    Field LD condition CS08
+    1            EHD1                       Chr_01                      102.7                3.74           22012456- 22012527                 -1.09            0.09
+    2           PRR37                       Chr_06                       42.0                5.71           40201054- 40201125                 1.53             0.15
+    3             ND                        Chr_08                       60.2                9.09           49290307- 49290378                 -1.80            0.26
+    4             CO                        Chr_10                       59.7                4.11           10080053- 10080126                 -1.50            0.16
+                                                                     Greenhouse SD (10 h)
+    1             ND                        Chr_01                       16.3                6.00            7208344- 7208415                  2.18             0.09
+    2            EHD1                       Chr_01                      102.7                4.92           22012456- 22012527                 -1.80            0.07
+    3             ND                        Chr_08                       65.1                7.96           49797259- 49797330                 -2.46            0.14
+    4             CO                        Chr_10                       59.7                8.70           10080053- 10080126                 -3.30            0.17
+a
+  Position of likelihood peak (highest LOD score).
+b
+  Peak coordinate: physical coordinate of the likelihood peak.
+c
+ Additive effect: A positive value means the delay of flowering time due to Tx7000 allele. A negative value means the delay of flowering time due to BTx642 allele.
+d 2
+  R (coefficient of determination): percentage of phenotypic variance explained by the QTL.
+e
+  ND: Candidate gene is not determined.
+
+
+
+
+(Figure 1B-D). The QTL spanning the sorghum homolog                                  (Sbprr37-2) delayed flowering relative to BTx623 in
+of CONSTANS explained ~40% of the variance in flower-                                field conditions in College Station in a manner similar to
+ing time in LD greenhouses, and 16-17% when plants were                              the delayed flowering attributed to the same allele in
+grown in the field or SD greenhouses (Table 1). A flower-                            Tx7000 compared to BTx642, which encodes the null allele
+ing time QTL located on SBI-08 (48.1-50.3 Mbp) was ob-                               Sbprr37-1.
+served in LD, SD and under field conditions. This QTL
+explained 8-14% of the phenotypic variance in LD and SD                              Identification of sorghum CONSTANS
+and 18-22% of the variance in field environments. Add-                               The hypothesis that the flowering time QTL on SBI-10
+itional analysis will be required to identify the gene corre-                        was caused by alleles of CONSTANS/Hd1 was investi-
+sponding to this flowering time QTL. A QTL located at                                gated further through gene sequence alignment and
+the end of SBI-01(~7.2 Mbp) was observed only when the                               analysis of colinearity. The amino acid sequence of rice
+BTx642/Tx7000 RIL population was grown in the SD                                     Hd1 was used to identify homologs in sorghum, maize,
+greenhouse (Figure 1D). A QTL on SBI-06 (~40.2 Mbp)                                  barley and Arabidopsis using data from Phytozome v9.1
+explaining ~15% of the variance in flowering time was                                [42]. Sb10g010050 (score = 71.9), GRMZM2G405368_T01
+identified when RILs were grown in the field (Figure 1C).                            (score = 80.7), AF490468 (score = 63.2) and AT5G15850
+SbPRR37 (Ma1), a repressor of flowering in LD, was                                   (score = 40.5) had the highest similarity to Hd1 in each
+located in the flowering time QTL on SBI-06. Sequence                                species. GRMZM2G405368_T01 and AF490468 were pre-
+analysis showed that BTx642 encodes Sbprr37-1 and a                                  viously identified as the maize CONSTANS-like gene,
+truncated version of PRR37, and that Tx7000 contains                                 conz1 [43] and barley CONSTANS-like gene, HvCO1 [36],
+Sbprr37-2, encoding a full-length version of PRR37 con-                              respectively, while AT5G15850 encodes CO in Arabidopsis
+taining a Lys162Asn change in the pseudo-response regu-                              [30]. Multiple sequence alignment of the CO homologs
+lator domain [1]. Genotypes containing Sbprr37-2 flowered                            showed that Sb10g010050 has all of the characteristic
+later than genotypes encoding Sbprr37-1 (null) under field                           protein domains found in CONSTANS-like gene fam-
+conditions, indicating that Sbprr37-2 is an active but weak                          ilies (Figure 2), including an N-terminal B-box1 (residues
+allele of SbPRR37. This conclusion is consistent with ana-                           35–76), B-box2 (residues 77–120) domains and a C-
+lysis of a flowering time QTL aligned to PRR37 identified                            terminal CCT domain (residues 339–381).
+in a RIL population derived from crossing the genotypes                                 The sorghum homolog of CONSTANS (Sb10g010050)
+Rio and BTx623 [41]. Sequence analysis of SbPRR37 alleles                            is located on SBI-10 and rice Hd1 (Os06g16370) is lo-
+showed that Rio encodes Sbprr37-2 and BTx623 contains                                cated on the homeologous rice chromosome 6, suggest-
+Sbprr37-3, a null allele [1]. The Ma1 allele from Rio                                ing that these genes may be orthologs. The sequences of
+Yang et al. BMC Plant Biology 2014, 14:148                                              Page 5 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+  A
+      Tx7000:BTx642
+                                         ***
+                       B-box1          B-box2                                     CCT
+                                                                     Glu318Gly
+                         Val60Ala      His106Tyr
+
+  B
+
+
+
+
+                                                            B-box1
+
+
+
+
+                                                   B-box2
+
+
+
+
+                                                                     CCT domain
+
+
+
+
+ Figure 2 (See legend on next page.)
+Yang et al. BMC Plant Biology 2014, 14:148                                                                                             Page 6 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+  (See figure on previous page.)
+  Figure 2 Multiple alignment analysis of CONSTANS homologs. A. Protein structure of SbCO showing domains characteristic of CONSTANS-
+  like gene families: B-box1, B-box2 and CCT domain are boxed. Red asterisks above the His106Tyr mutation indicate that this functional mutation
+  was also identified in rice and Arabidopsis. B. Multiple sequence alignments of CO homologs from sorghum (Sb10g010050, SbCO), maize
+  (GRMZM2G405368_T01, conz1), rice (Os06g16370, OsHd1), barley (AF490468, HvCO1) and Arabidopsis (AT5G15850, AtCO). The sorghum sequence
+  used for alignment was derived from BTx623 (SbCO-1). Protein residues conserved among all 5 species are underscored by asterisks. Amino acid
+  residues underscored by a colon indicate residues of strongly conserved properties, while residues underscored by a period indicate residues with
+  more weakly similar properties. One amino acid substitution distinguishes BTx623 (SbCO-1) and Tx7000 (SbCO-2) (marked with blue arrow). Unique
+  amino acid substitutions that distinguish BTx623 and BTx642 (Sbco-3) are marked with black arrows (tolerant) and a red arrow (intolerant).
+
+
+
+these genes and adjacent sequences in each chromosome                       protein sequence located in B-box2 (Figure 2, red arrow)
+were aligned to determine if SbCO and OsHd1 were in                         is predicted to disrupt CO function. In the wild type
+a region of gene colinearity. The sorghum sequences                         version of CONSTANS, His106 is required for zinc co-
+flanking Sb10g010050 were downloaded from Phyto-                            ordination and protein activity [6]. The BTx642 allele
+zome and aligned with sequences from rice chromosome                        of CONSTANS was designated Sbco-3 because the
+6 flanking Hd1 using GEvo [44]. Three genes and Hd1                         Arabidopsis allele co-3 has the same His106Try substitu-
+were aligned and in the same relative order in a 100 kbp                    tion that disrupts function [30]. The wild type alleles of
+region in the two chromosomes, consistent with the                          CO in BTx623 and Tx7000 had identical CO protein se-
+identification of Sb10g010050 as an ortholog of rice Hd1                    quences except for a Ser177Asn substitution in Tx7000
+(Additional file 2: Figure S1). Therefore, based on se-                     (Figure 2B, blue arrow), a modification that does not
+quence similarity and colinearity, Sb10g010050 was desig-                   affect the B-boxes or the CCT domain, and is predicted
+nated as an ortholog of rice Hd1 and a probable ortholog                    by SIFT to have minimal impact on CO function. Based
+of Arabidopsis CO and termed “SbCO”.                                        on this analysis, the CONSTANS alleles in BTx623 and
+   The hypothesis that the flowering time QTL on SBI-                       Tx7000 were designated as SbCO-1 and SbCO-2, respect-
+10 was caused by different alleles of SbCO in BTx642                        ively, and the allele in BTx642 as Sbco-3. BTx642 (Sbco-3)
+and Tx7000 was investigated further by comparing the                        flowers later than Tx7000 (SbCO-2) in both long and
+SbCO sequences from these genotypes. The comparison                         short days.
+revealed one difference in intron sequence and four dif-
+ferences in the coding region, three of which cause                         SbCO alleles modulate expression of genes in the
+changes in amino acid sequence (Table 2). The amino                         flowering time pathway
+acid change Val60Ala, occurs in B-box1 (Figure 2, black                     The influence of SbCO alleles on the expression of other
+arrow), a conservative change in amino acid sequence                        genes in the flowering-time regulatory pathway was ana-
+that is expected to be tolerated based on SIFT analysis                     lyzed to further understand how SbCO affects flowering
+[45]. The amino acid change Glu318Gly occurs outside                        time. RIL105 and RIL112 were identified that differ in
+the B-boxes and CCT-domain (Figure 2, black arrow)                          alleles of SbCO but not at the other main loci that affect
+and was also predicted to be tolerated based on SIFT                        flowering time. RIL105 and RIL112 are homozygous for
+analysis. While the Val60Ala and Glu318Gly changes in                       BTx642 alleles for the flowering time QTL on SBI-01
+protein sequence may not disrupt CO function, it is pos-                    (spanning Sbehd1-2), SBI-06 (spanning Sbprr37-1), and
+sible that other aspects of CO could be modified by                         SBI-08. BTx642 encodes a null allele of Ma1 (Sbprr37-1), a
+these differences. The His106Tyr change in BTx642 CO                        gene that contributes to photoperiod sensitivity. Tx7000
+
+
+Table 2 Characterization of SbCO alleles from BTx623, Tx7000 and BTx642
+       SNP #                       1                     2                     3                    4                    5                     6
+  Location (SBI-10)            12275306              12275331              12275443             12275657             12276109              12276334
+Nucleotide variation              T>C                  T>G                   C>T                  G>A                   C>T                  A>G
+Protein modification            Val60Ala            No change              His106Tyr            Ser177Asn              Intron             Glu318Gly
+CONSTANS domain                  B-box1                                     B-box2
+     SIFT score                 tolerant               N/A*                Intolerant            Tolerant               N/A                Tolerant
+  SbCO-1 (BTx623)                   -                    -                     -                    -                     -                    -
+  SbCO-2 (Tx7000)                   -                    -                     -                    +                     -                    -
+  Sbco-3 (BTx642)                  +                     +                     +                    +                    +                     +
+*N/A: Not applicable.
+Yang et al. BMC Plant Biology 2014, 14:148                                                                       Page 7 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+contains a weak allele of Ma1 (Sbprr37-2) that encodes a     rice Hd3a (SbCN15) were identified and qRT-PCR primers
+full-length protein that inhibits flowering based on QTL     specific to each gene were designed to enable analysis of
+analysis [1,41]. Therefore, RIL105 and RIL112 were se-       gene expression (Additional file 4: Table S2). No ortholog
+lected for expression studies because both contain DNA       of RFT1 is present in the sorghum genome.
+from BTx642 on SBI-06 from 0-42 Mbp, ensuring that             In leaves of RIL105 (SbCO-2) grown in LD, SbEHD1
+these genotypes are null for Ma1 (Sbprr37-1). In addition,   expression was high at dawn and then declined during
+both RILs encode a null allele of Ma6 (Sbghd7-1) located     the day before increasing in the evening approximately
+at the proximal end of SBI-06 [2]. Therefore, comparison     15 h after dawn (Figure 3C, black solid line), with a pat-
+of gene expression in RIL105 and RIL112 caused by            tern similar to SbEHD1 expression in 100 M (Ma1) in
+differences in SbCO alleles will not be influenced by        short days [1]. During the 24 h LD cycle, SbEHD1 RNA
+Ma1 or Ma6 the main determinants of photoperiod sensi-       was higher in RIL105 (SbCO-2) compared to RIL112
+tivity in sorghum [1,2].                                     (Sbco-3) indicating that CO activates expression of
+   When grown in a LD greenhouse, RIL105 (SbCO-2)            SbEHD1 (Figure 3C, RIL112 = red dashed line). The
+flowered in ~75 days, whereas RIL112 (Sbco-3) flowered       average difference in SbEHD1 RNA level in the two RILs
+in ~113 days consistent with the hypothesis that SbCO        during the 24 h LD cycle was 20-fold (Figure 3G). In
+functions as an activator of flowering (Figure 3A). SbCO     leaves of RIL105 (SbCO-2) grown in LD, SbCN8 and
+expression in RIL105 (SbCO-2) was analyzed using qRT-        SbCN12 mRNA levels were highest at dawn, then de-
+PCR during a 24 h LD cycle followed by 24 h of               creased during the day with a second smaller peak of
+continuous light and temperature (LL). SbCO expression       expression approximately 12-18 h after dawn (Figure 3D
+decreased at dawn and remained at low levels during          and E, black solid line). In RIL112 (Sbco-3), the same pat-
+most of the day and then increased to a peak in the even-    tern of expression was observed; however, SbCN8 and
+ing, approximately 15 h after dawn, followed by a decline    SbCN12 mRNA levels were much lower (Figure 3D
+and second smaller peak at dawn (Figure 3B). The peaks       and E, red dashed line). Expression of SbCN8 was ~10-fold
+of SbCO expression in the evening and near dawn were         higher in RIL105 (SbCO-2) compared to RIL 112 (Sbco-3)
+previously observed in sorghum [1] and for conz1 in          (Figure 3C) and expression of SbCN12 was ~100-fold
+maize [43]. The increase in SbCO expression in the even-     higher in RIL105 (SbCO-2) compared to RIL112 (Sbco-3)
+ing also occurred in continuous light (LL), consistent       (Figure 3D) over a 24 h LD cycle in the SbCO-2 back-
+with prior studies showing that light and the circadian      ground (Figure 3G). In contrast, the mRNA level of
+clock modulate this peak of CO expression. The pattern       SbCN15 (Hd3a) was similar in the two genotypes
+of SbCO expression in RIL112 (Sbco-3) was similar to         (Figure 3G), although the gene’s peak of expression was
+RIL105 (SbCO-2) although with slightly higher (<2-fold)      at dawn in RIL105 (SbCO-2) and at 18 h in RIL112
+levels of expression (data not shown).                       (Sbco-3) (Figure 3F). Together, these results are consist-
+   RIL105 (SbCO-2) and RIL112 (Sbco-3) were used to          ent with the hypothesis that SbCO promotes flowering
+analyze how alleles of CONSTANS affect expression of         by inducing expression of SbEHD1, SbCN8, and SbCN12,
+other genes in the sorghum flowering time regulatory         with SbCN12 showing the largest CO-mediated increase
+pathway. Expression of the clock genes TOC1, LHY and         in expression in LD.
+GI were similar in RIL105 and RIL112, indicating that
+these genes are not affected by SbCO alleles as ex-          Regulation of SbCO floral promoting activity in
+pected for genes upstream of SbCO (Additional file 3:        SD and LD
+Figure S2). In Arabidopsis CO activates flowering by         Comparison of flowering time and flowering pathway
+inducing expression of FT and in rice Hd1 activates Hd3a/    gene expression in RIL105 (ma1, ma6, CO) and RIL112
+RFT1, genes encoding PEBP (phosphatidylethanolamine-         (ma1, ma6, co-3) showed that SbCO activates SbCN8/12
+binding) domain protein ‘florigens’ that move from the       expression and flowering in LD. The next question ad-
+leaf to the shoot apical meristem where they interact        dressed was whether photoperiod alters SbCO activity
+with FD and induce floral transition. In rice, two mem-      in sorghum. When grown in a SD greenhouse, RIL105
+bers of the PEBP gene family, Hd3a and RFT1 were             (SbCO-2) flowered in ~55 days, whereas RIL112 (Sbco-3)
+identified as encoding florigens [10]. In maize, ZCN8, a     flowered in ~72 days consistent with the hypothesis that
+different member of the PEBP gene family, was identi-        SbCO functions as an activator of flowering in short days
+fied as a source of florigen [46,47]. In sorghum, SbCN8      in sorghum. A comparison of the relative expression of
+and SbCN12 are potential sources of florigen because         SbCO in SD and LD showed that SbCO expression was not
+expression of both genes is regulated by photoperiod,        altered significantly in response to day-length (Additional
+modulated by Ma1 alleles, and induction of expression        file 5: Figure S3). However, differences in the relative ability
+occurs coincident with floral initiation [1]. The sorghum    of SbCO to activate expression of SbCN12 and SbCN8 in
+orthologs of maize ZCN8 (SbCN8), ZCN12 (SbCN12) and          SD and LD were observed in comparisons of RIL105 (ma1,
+Yang et al. BMC Plant Biology 2014, 14:148                                                                                                                                                                 Page 8 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+                     A                                                                                                     D 1.0
+                                                                                                                                                            SbCN8
+
+                                                                                                                                                  0.8
+
+
+
+
+                                                                                                                             Relave Expression
+                                                                                                                                                  0.6
+
+                                                                                                                                                  0.4
+
+                                                                                                                                                  0.2
+
+                                                                                                                                                  0.0
+                                                                                                                                                        0        6   12   18    24     30   36   42   48
+                                                                RIL112                         RIL105                                                                          Hours
+
+
+                      B 1.0                          SbCO
+                                                                                                                           E 1.0                            SbCN12
+
+                                                                                                                                                  0.8
+
+
+
+
+                                                                                                                             Relave Expression
+                                           0.8
+                      Relave Expression
+
+
+
+
+                                           0.6                                                                                                    0.6
+
+                                           0.4                                                                                                    0.4
+
+                                           0.2                                                                                                    0.2
+
+                                           0.0                                                                                                    0.0
+                                                 0          6   12   18                 24      30      36    42    48                                  0        6   12   18    24     30   36   42   48
+                                                                                       Hours                                                                                   Hours
+
+
+                      C 1.0                          SbEHD1                                                                F 1.0                            SbCN15
+
+                                                                                                                                                  0.8
+                                                                                                                           Relave Expression
+
+
+
+
+                                           0.8
+                      Relave Expression
+
+
+
+
+                                           0.6                                                                                                    0.6
+
+                                           0.4                                                                                                    0.4
+
+                                           0.2                                                                                                    0.2
+
+                                           0.0                                                                                                    0.0
+                                                 0          6   12   18                 24      30      36    42    48                                  0        6   12   18    24     30   36   42   48
+                                                                                       Hours                                                                                   Hours
+
+                                                                     G 160
+                                                                                       140
+                                                                                       120
+                                                                      Fold Diﬀerence
+
+
+
+
+                                                                                       100
+                                                                                        80
+                                                                                        60
+                                                                                        40
+                                                                                        20
+                                                                                         0
+                                                                                       -20       CO          EHD1    SbCN8                        SbCN12        SbCN15
+                                                                                                                    Aver 24h
+
+ Figure 3 SbCO promotes flowering by inducing SbEHD1 and FT-like genes in LD (14 h light/10 h dark). A. Flowering time phenotype of
+ RIL112 and RIL105. (Days to flowering for RIL112 and RIL105 are 113 and 75.) B-F. Relative expression levels of flowering time genes in RIL105
+ (black solid line) and RIL112 (red dashed line). Gray shading denotes the dark/night portion of each 24 h cycle. The first 24 h covers one light–dark
+ cycle, followed by 24 h of continuous light and temperature (LL). B. SbCO. C. SbEHD1. D. SbCN8. E. SbCN12. F. SbCN15. G. Average fold differences of
+ the first 24 h (light–dark cycle) between the mRNA levels of each gene in RIL105 and RIL112 is plotted. Positive values represent higher expression
+ detected in RIL105. Each expression data point corresponds to three technical replicates within three biological replicates.
+
+
+ma6, CO) and RIL112 (ma1, ma6, co-3) (Figure 4). In                                                                       SD was 20–40 fold higher during the night in SD,
+RIL105, SbCN12 and SbCN8 had higher expression in SD                                                                      peaking between 18-21 h (Figure 4E). When a comparison
+compared to LD, especially during the night when both                                                                     of SbCN8/12 expression in SD/LD was done using RIL112
+genes showed their highest expression (Figure 4A and D;                                                                   (Sbco-3), ~10-fold differences in expression in SD vs. LD
+SD = red dashed line, LD = solid line). The difference be-                                                                were observed during the night (Figure 4C and F). Taken
+tween SbCN12 mRNA levels in SD and LD varied depend-                                                                      together, these results indicate that CO has greater activity
+ing on time of day, with the largest differences occurring                                                                in SD compared to LD causing up to 10-fold higher ex-
+during the night, peaking at 18 h (Figure 4B). A similar                                                                  pression of SbCN8/12 during the night in genetic back-
+pattern was observed for SbCN8 where expression in                                                                        grounds that contain null alleles of Ma1 and Ma6.
+Yang et al. BMC Plant Biology 2014, 14:148                                                                                                              Page 9 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+  A                    1.0
+                                  SbCN12
+                                                                                   D                    1.0
+                                                                                                                   SbCN8
+                                  RIL105                                                                           RIL105
+                       0.8                                                                              0.8
+
+
+
+
+                                                                                   Relave Expression
+  Relave Expression
+
+
+
+
+                       0.6                                                                              0.6
+
+                       0.4                                                                              0.4
+
+                       0.2                                                                              0.2
+
+                       0.0                                                                              0.0
+                              0        6   12   18      24   30   36   42   48                                 0        6   12    18     24   30   36    42    48
+                                                Hours                                                                            Hours
+
+  B                    120                                                         E                     50
+                              RIL105                                                                               RIL105
+                       100                                                                               40
+  Fold Diﬀerence
+
+
+
+
+                                                                                   Fold Diﬀerence
+                        80                                                                               30
+                        60
+                                                                                                         20
+                        40
+                                                                                                         10
+                        20
+                                                                                                          0
+                         0
+                                                                                                                   0 3 6 9 12 15 18 21 24 27 30 33 36 39 42 45
+                                  0 3 6 9 12 15 18 21 24 27 30 33 36 39 42 45                           - 10
+                       - 20
+                                                 SbCN12                                                                            SbCN8
+
+  C                    110                                                         F                     50
+                              RIL112                                                                               RIL112
+                        90                                                                               40
+  Fold Diﬀerence
+
+
+
+
+                                                                                   Fold Diﬀerence
+
+
+
+
+                        70                                                                               30
+
+                        50                                                                               20
+
+                        30                                                                               10
+
+                        10                                                                                0
+                                                                                                                   0 3 6 9 12 15 18 21 24 27 30 33 36 39 42 45
+                       - 10       0 3 6 9 12 15 18 21 24 27 30 33 36 39 42 45                           - 10
+                                                 SbCN12                                                                            SbCN8
+ Figure 4 Relative expression levels and fold differences of SbCN8 and SbCN12 mRNA in plants (RIL105 or RIL112) grown in LD
+ (14 h light/10 h dark) or SD (10 h light/14 h dark). Black solid lines represent relative expression in LD and red dashed lines represent relative
+ expression in SD. Positive fold difference values indicates higher mRNA levels detected under SD condition. A-C. SbCN12. D-F. SbCN8.
+
+
+
+Post-transcriptional inhibition of SbCO activity by                              (e.g. Figure 1C) as well as in Lubbock, Texas (data not
+PRR37 (Ma1)                                                                      shown). This QTL was not observed in SD conditions, as
+In sorghum, Ma1 (SbPRR37) increases photoperiod sen-                             expected, because SbPRR37 has minimal impact on flower-
+sitivity by repressing expression of SbEHD1 and SbCN8/                           ing under these conditions. As noted above, BTx642 en-
+12, resulting in delayed flowering in LD but with min-                           codes a null allele Sbprr37-1, however, the Ma1 allele in
+imal effect in SD [1]. The ability of SbPRR37 to inhibit                         Tx7000, Sbprr37-2, encodes a full-length protein with one
+expression of SbCN8 and SbCN12 could be due to inhib-                            amino acid substitution Lys62Asn with sufficient activity to
+ition of SbEHD1 or SbCO, activators of SbCN8 and                                 delay flowering time under field conditions.
+SbCN12 expression, and/or by direct inhibition of SbCN8                            If SbPRR37 delays flowering by inhibiting SbCO, and
+and SbCN12. A flowering time QTL coincident with Ma1                             SbCO increases expression of SbEhd1 and SbCN8/12,
+was identified in the BTx642/Tx7000 RIL population                               then epistatic interaction between SbPRR37 and SbCO
+grown under field conditions in 2008, 2009 and 2010                              may be detected in the RIL population. SbPRR37 and
+Yang et al. BMC Plant Biology 2014, 14:148                                                                                         Page 10 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+SbCO allelic interactions were examined by first sorting                     expression coincident with floral initiation [2]. In this study
+the RILs into lines that contain Sbprr37-1 (null) or                         we identify and characterize a second activator of sor-
+Sbprr37-2, and then analyzing the influence of SbCO                          ghum flowering SbCO, a homolog of the floral activator
+and SbEHD1 alleles on flowering time in each back-                           CONSTANS in Arabidopsis and an ortholog of Hd1 in
+ground. In the portion of the population containing the                      rice. Coding alleles of CONSTANS were identified through
+null version of Sbprr37-1, the QTL corresponding to                          analysis of a flowering time QTL on SBI-10. Results
+SbCO/Sbco-3 (LOD = 13) explained 48% of the pheno-                           showed that SbCO functions as an activator of flowering
+typic variance for flowering time in the field (Figure 5A).                  in LD and SD in sorghum genotypes using RILs with null
+In contrast, in the portion of the RIL population con-                       versions of Sbprr37-1 and Sbghd7-1. The Sbco-3 allele in
+taining the active allele of Ma1 (Sbprr37-2), no QTL cor-                    BTx642 was remarkable because it contained a His106Tyr
+responding to SbCO was observed. In this portion of the                      amino acid substitution that also inactivates CO function
+RIL population (Sbprr37-2), the QTL corresponding to                         in Arabidopsis [30]. Sorghum and Arabidopsis genotypes
+SbEhd1-1/Sbehd1-2 explained ~20% of the phenotypic                           containing the inactive His106Tyr co-3 allele flower late in
+variance (date not shown). This result indicates that                        long days, as well as late in short days in sorghum, in-
+Sbprr37-2 inhibits SbCO-mediated induction of flower-                        dicating that CONSTANS functions as an activator of
+ing. If this hypothesis is correct, then the ability of                      flowering in both species. SbCO shares a conserved
+Sbprr37-2 to inhibit flowering could be dependent on an                      CCT (CO, CO-like, TOC1) domain with TOC1, PRR37,
+active allele of SbCO. To test this hypothesis, the RIL                      Ghd7, and HEME ACTIVATOR PROTEINS (HAP or
+population was sorted into lines that contained SbCO-2                       NF-Y proteins). Yeast two-hybrid screens showed that
+and lines that contained Sbco-3, and flowering time QTL                      CO can interact with HAP3 and HAP5 subunits through
+were identified in each background (Figure 5B). This                         its CCT-domain, forming CCAAT-binding CBF-complexes
+analysis showed that SbPRR37 alleles affected flowering                      that bind to FT promoters and activate transcription
+time in the SbCO-2 background but not in the genetic                         [48,49]. In sorghum, SbCO was found to activate transcrip-
+background containing Sbco-3 alleles, indicating that the                    tion of SbEHD1, SbCN8 and SbCN12, consistent with its
+ability of SbPRR37 to inhibit flowering is dependent on                      role as an activator of flowering, presumably through for-
+SbCO.                                                                        mation of CBF-complexes, but possibly through direct
+                                                                             binding to DNA [50].
+Discussion                                                                      The ability of SbCO alleles to induce flowering path-
+Sorghum accessions exhibit a wide range of flowering                         way gene expression and flowering was examined in RIL
+times when plants are grown in long days (i.e., 48d                          genetic backgrounds that contained null alleles of Ma1
+to >175d under field conditions in College Station,                          (Sbprr37-1) and Ma6 (Sbghd7) to eliminate the influence
+Texas) [2]. A large extent of this variation is caused by                    of these LD floral repressors. In this null genetic back-
+differences in photoperiod sensitivity mediated by floral                    ground, SbCO promoted early flowering in LD and SD
+repressors encoded by Ma1 and Ma6 that inhibit flower-                       and increased the expression of SbEHD1 (~25-fold),
+ing in long days [1,29]. Much less is known about floral                     SbCN8 (~10-fold), SbCN12 (~100-fold) and SbCN15
+activators in sorghum. The grass specific floral activator                   (~5-fold) relative to their expression in lines carrying the
+SbEHD1 was previously identified based on the gene’s se-                     inactive Sbco-3 allele. This information is summarized in
+quence similarity to rice EHD1 and activation of SbEHD1                      a flowering time regulatory model shown in Figure 6.
+
+
+                             A                             Field             B                               Field
+                                                 prr37-2           prr37-1                          SbCO-2             Sbco-3
+                                           0.6                                                0.3
+                                                                             R2 (PRR37 QTL)
+                             R2 (CO QTL)
+
+
+
+
+                                           0.4                                                0.2
+
+                                           0.2                                                0.1
+                                                 ND                                                                    ND
+                                            0                                                  0
+                                                           SbCO                                              SbPRR37
+ Figure 5 Epistasis analysis of SbPRR37 and SbCO QTL in BTx642/Tx7000 RIL population under field conditions. A. Proportion of
+ phenotypic variance (R2) explained by the QTL corresponding to SbCO-2/Sbco-3 in the portion of the population homozygous for Sbprr37-1 (right)
+ or Sbprr37-2 (left). B. Proportion of the phenotypic variance explained by the QTL corresponding to Sbprr37-1/Sbprr37-2 in the portion of the
+ population homozygous for SbCO-2 (left) or Sbco-3 (right). Each R2 value represents the average obtained under field conditions in three years.
+Yang et al. BMC Plant Biology 2014, 14:148                                                                               Page 11 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+                                                                           expression in response to photoperiod and mutations in
+                                                                           SbPRR37 and SbCO. The sorghum genome does not en-
+                                                                           code an ortholog of RFT1, a source of florigen in rice in
+                                                                           LD.
+                                                                              The results indicate that there has been a significant
+                                                                           change in the complement of FT-like genes that function
+                                                                           as the main sources of florigen in sorghum (SbCN8,
+                                                                           SbCN12) and rice (Hd3a = SbCN15; RFT1, no sorghum
+                                                                           ortholog), therefore regulation of flowering time could
+              PHYB                                                         also differ, even though both grass species are short day
+              (Ma3)                                                        plants. SbCO activates expression of SbCN8 and SbCN12,
+                                                                           although SbCN12 was induced to a significantly greater
+                                                                           extent. SbCO also increased expression of SbEHD1, an ac-
+                                                                           tivator of Hd3a expression in rice. SbEHD1 expression is
+                                                                           repressed by SbPRR37 and SbGhd7 and induced when
+             PRR37                                      GI                 photoperiod sensitive sorghum grown in LD is transferred
+             (Ma1)                                                         to SD [1,2]. Increases in SbEHD1 expression occur in par-
+                                                                           allel with increases in SbCN8 and SbCN12 expression,
+         LD                           LD                                   suggesting that SbEhd1 can induce the expression of these
+                                                                           genes as shown in Figure 6. However, the extent and
+                                                                           specificity of this proposed activity of SbEhd1 will re-
+             EHD1                                    SbCO                  quire further analysis in backgrounds where SbCO has
+                                                                           minimal influence on the expression of these genes
+                                                                           (Sbco-3 backgrounds). The results in this paper show
+                                                                           that SbCO increases expression of SbEHD1 and it is pro-
+                                                                           posed that SbEhd1 can activate expression of SbCN8 and
+                                                                           SbCN12 and flowering. In contrast, rice Hd1 has not been
+           SbCN8              SbCN12 SbCN15                                reported to increase expression of EHD1 [20,33]. Of inter-
+                                                                           est is the finding that SbCO activates expression of
+                                                                           SbCN12 to a much greater extent than SbEHD1. Therefore
+                                                                           we conclude that SbCO directly increases SbCN12 tran-
+  Vegetave                                               Floral           scription and that this may be the most important way that
+                                                                           SbCO activates flowering.
+ Figure 6 Model of photoperiod flowering-time regulation in
+                                                                              The finding that SbCO can activate flowering in LD
+ sorghum. Phytochrome B mediates light signaling, providing
+ information about day length required for photoperiod detection.
+                                                                           and SD in sorghum genotypes that are null for Ma1 and
+ Light and the circadian clock regulate expression of PRR37 resulting      Ma6 raised the question as to how the activity of this
+ in higher expression in LD vs. SD. PRR37, a floral repressor, inhibits    gene is regulated by photoperiod in this short day plant.
+ the activity of SbCO, a floral activator resulting in delayed flowering   SbCO expression is low during the day, then increases in
+ in LD. In inductive SD, SbCO activates expression of SbEHD1, SbCN8
+                                                                           the evening to a peak at ~15 h after dawn, followed by
+ and SbCN12 genes thereby promoting flowering. Thin lines
+ represent possible mechanism of flowering time regulation.                a decrease and a second peak of expression at dawn
+                                                                           (Figure 3B). In Arabidopsis, a similar increase in CO ex-
+                                                                           pression in the evening is due to the interaction of GI
+The model includes three members of the PEBP-gene                          and blue light-activated FKF1, resulting in degradation
+family that could be sources of florigen in sorghum,                       of CDF-factors that inhibit CO expression [9]. This
+SbCN8, SbCN12 and SbCN15. SbCN8 is an ortholog of                          mechanism may also explain the evening peak of SbCO
+maize ZCN8, with a pattern of gene expression consistent                   expression in sorghum. The second less prominent peak
+with the demonstrated role of ZCN8 as a source of flori-                   of SbCO expression at dawn is modulated by alleles of
+gen in maize [47]. SbCN12 expression is repressed by                       SbPRR37 and enhanced in LD [1]. The function of the
+PRR37, induced in leaves in SD, and induced by SbCO                        peak of SbCO expression at dawn is not currently under-
+(this study), indicating that this gene is also a likely                   stood, although production of SbCO at this time could
+source of florigen in sorghum. In rice, Hd3a and RFT1                      help activate SbEHD1 expression in the morning.
+have been identified as sources of florigen; therefore                        Functional alleles of SbCO increased the expression of
+expression of SbCN15, the ortholog of Hd3a, was an-                        SbCN8 and SbCN12 to a greater extent in SD relative to
+alyzed. SbCN15 showed relatively small changes in gene                     LD (Figure 4). SbCO expression levels increase during
+Yang et al. BMC Plant Biology 2014, 14:148                                                                      Page 12 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+the evening, helping to explain why SbCN8/12 expres-            with activators, repressors, HAP subunits, HvCO1 and
+sion increases at night. Since expression of SbCO was           SbCO. In rice, it has been suggested that phosphorylation
+not altered significantly by photoperiod (Additional file 5:    of PRR37 by Hd6 may cause PRR37, in conjunction with
+Figure S3), increased activity of SbCO in SD is most likely     Hd1, to become a repressor of Hd3a expression in LD
+due to an increase in protein level or activity. In Arabidop-   [35]. The possibility that PRR37 can form a co-repression
+sis, a long day plant, CO levels are higher in LD due to        complex with CO is consistent with results in sorghum
+COP1-SPA1-Cry2 stabilization of the protein [6]. This           and rice. However in the absence of PRR37, CO functions
+stabilization module may be missing or attenuated in sor-       as an activator of FT expression in sorghum and rice.
+ghum. Reduced PhyB/C-mediated degradation of SbCO in            While the biochemical basis of variation in PRR37 activity
+SD, relative to LD, could result in greater SbCO-mediated       remains to be elucidated, taken together, the results suggest
+activation of SbCN8/12 in SD. In sorghum genotypes con-         that interaction between PRR37 and CO on the promoters
+taining active alleles of SbPRR37 the evening peak of SbCO      of specific florigen-related PEBP-genes result in fundamen-
+expression is not altered, the peak of expression at dawn       tal differences in photoperiod-sensitive flowering between
+increases, but the activity of SbCO is strongly attenuated.     LD and SD grasses.
+Expression of SbPRR37 is high in the evening in plants             The flowering time model in Figure 6 shows that
+grown in LD, but low in SD. Therefore, higher levels of         SbEhd1 and SbCO can independently induce flowering
+SbPRR37 expression in LD, and SbPRR37 repression of             by activating SbCN8 and/or SbCN12. EHD1 and Hd1
+SbCO activity under these conditions, is predicted to pre-      have been shown to independently activate Hd3a (FT)
+vent SbCO from activating flowering in LD.                      and flowering in rice [20]. In sorghum we show that
+   SbPRR37 is a CCT-domain protein that has been                there is cross-talk between these pathways because
+shown to interact with HAP3, the same CBF-subunit               SbPRR37 activates SbCO expression at dawn in LD,
+that interacts with SbCO [51]. Therefore, SbPRR37 may           while SbCO induces SbEHD1 expression in SD. Rice
+be a competitive inhibitor of SbCO binding to the HAP           EHD1, a B-type response regulator, is controlled by several
+complex. SbPRR37 may also directly bind to DNA in a             upstream modulators including the repressors GHD7,
+fashion similar to TOC1 and other PRR-proteins [52].            GRAIN NUMBER, PLANT HEIGHT AND HEADING
+TOC1 binding to its cognate motif in the promoter of            DATE 8 (GHD8), OsLEC1 and FUSCA-LIKE1 (OsLFL1),
+LHY/CCA1 is mediated by its CCT-domain, resulting in            OsMADS56 and the activators GI, EARLY HEADING
+PRR-domain mediated repression of transcription. If             DATE 2 (EHD2) and OsMADS50 [8,53]. The existence of
+PRR37 binds to the SbCN12 promoter in a similar man-            two parallel pathways that can activate flowering in sor-
+ner, it could directly repress transcription, block SbCO        ghum provides for a wide range of responses to diverse
+binding to the HAP complex, and/or interact with CO             environmental factors, contributing to sorghum’s wide geo-
+or other proteins in order to repress SbCN12 transcrip-         graphical adaptation. Sorghum crop breeders are utilizing
+tion. Recent results on the PRR37 ortholog in rice (Hd2)        different alleles of key genes in these parallel pathways to
+indicated that PRR37 directly represses Hd3a transcrip-         generate early flowering grain sorghum hybrids and late
+tion [35]. Further genetic and biochemical analysis will        flowering energy sorghum hybrids.
+be required to distinguish among these possibilities.
+   In barley, a long day plant, HvCO1 activates flowering       Conclusions
+in LD, and activation is dependent on Ppd-H1, an ortho-         Alleles of sorghum CONSTANS (SbCO) were identified
+log of SbPRR37. Overexpression of HvCO1 induced                 through analysis of a flowering time QTL on chromo-
+flowering in both LD and SD, but photoperiod sensitivity        some 10 identified in a RIL population derived from
+mediated by Ppd-H1 was still observed in this back-             BTx642 and Tx7000. Genetic analysis and gene expres-
+ground [36]. Ppd-H1 does not directly affect expression         sion studies indicate that SbCO is an activator of flower-
+of HvCO1, but potentiates the ability of HvCO1 to acti-         ing in long and short days in genotypes lacking active
+vate HvFT1 expression in LD. It is interesting to note          SbPRR37 and GHD7 alleles. PRR37 was found to block
+that Ppd-H1 increases HvCO1 activity in LD, whereas             CO-mediated floral activation in long days.
+SbPRR37 inhibits the floral promoting activity of SbCO
+in LD. The expression and activity of SbPRR37 and Ppd-          Methods
+H1 increase in LD and both affect CO’s ability to modu-         Plant materials
+late FT-gene expression, but in an opposite manner,             The BTx642/Tx7000 RIL population (n = 90) and paren-
+consistent with barley being a long day plant and sorghum       tal lines were grown under field conditions in a repli-
+a short day plant. The difference in activity of PRR37 could    cated randomized block design at Texas A&M Research
+be due to differences in direct binding of PRR37 to the         Farm near College Station Texas in 2008, 2009 and 2010
+promoters of SbCN12 and HvFT1 (homolog of Hd3a,                 with planting between April 1–14. Days to mid-anthesis
+SbCN15), or indirectly by interaction of PRR37/Ppd-H1           (pollen shed) were determined as a measure of flowering
+Yang et al. BMC Plant Biology 2014, 14:148                                                                     Page 13 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+time. In the field, day-lengths increased from ~12.6 h in       CLC Genomics Workbench 4.9. Minimum coverage for
+April to 14.3 h in July, with an average daily maximum          a variant call was set at 5, and maximum was set at 150.
+temperature of 31.7°C and an average daily minimum              Allele types were designated based on SNPs. The SIFT
+temperature of 20.0°C. Ten plants of each RIL and the           algorithm (sorting intolerant from tolerant) [45] was uti-
+parental lines were grown in a greenhouse in 10 h day           lized to predict whether an amino acid substitution affects
+lengths (SD, 2011) or 14 h day lengths (LD, 2009 and            protein function based on the degree of conservation of
+2010) and phenotyped for flowering time in a similar            amino acid residues in sequence alignments derived from
+manner as the populations grown in the field. RIL105            closely related gene sequences. RIL105 and RIL112 were
+and RIL112 correspond to 4_6 and 12_14 in original              selected from the BTx642/Tx7000 RIL population using
+BTx642/Tx7000 RIL population [38].                              DG markers flanking each QTL peak and spanning each
+                                                                candidate gene. RIL112 contains BTx642 haplotypes
+Genotyping by sequencing and QTL analysis                       spanning all of the flowering time QTL, including the
+Genotyping by sequencing was carried out using Digital          QTL on SBI-10 (Sbco-3). RIL105 contains BTx642 hap-
+Genotyping (DG) [40] on the 90 RILs derived from                lotypes spanning QTL on SBI-01, SBI-06, SBI-08 and
+BTx642 and Tx7000 [39]. A genetic linkage map was               the Tx7000 haplotype spanning the QTL on SBI-10
+constructed using data generated from 1462 polymorphic          (SbCO-2) (Additional file 6: Table S3).
+DG markers using Mapmaker/EXP ver. 3.0b where re-
+combination frequency was calculated using the Kosambi          LD, SD and circadian experiments
+mapping function. QTLs were detected using Composite            For circadian rhythm experiments, RIL105 and RIL112
+Interval Mapping (CIM) in WinQTL Cartographer v2.5              were grown in the greenhouse in LD (14 h light) for
+[54]. Significant LOD thresholds for QTL detection were         32 days. For entrainment, the plants were transferred to
+determined based on experiment-specific permutations            growth chambers set for LD (14 h light/10 h dark) or SD
+with 1000 repeats at α = 0.05 [55]. In QTL-based epista-        (10 h light/14 h dark) treatment for one week prior to
+sis analysis, the 90 RILs were categorized into sub-            collection of tissue for expression analysis. In the growth
+populations based on alleles of SbPRR37 or alleles of           chamber, daytime temperature was 30°C at a light in-
+SbCO respectively. Sub-populations homozygous for each          tensity of ~300 μmol · s−1 · m−2 and night (dark) tem-
+allele of SbPRR37 and each allele of SbCO were then sub-        perature was 23°C with ~60% relative humidity. At day
+jected to QTL analysis.                                         39, the fully expanded portion of the top three leaves
+                                                                from three different plants were sampled from each
+Phylogenetic and Colinearity Analysis                           genotype and photoperiod every 3 hours through a 24 h
+The amino acid sequence of rice Hd1(Os06g16370) was             light–dark cycle followed by 24 h of continuous light
+used to search Phytozome v9.1 [42] for homologs of              (continuous 30°C) (LL). RNA was extracted from leaf tis-
+CONSTANS in rice, maize, barley and sorghum. Mul-               sues using TRI Reagent (MRC) using the protocol for tis-
+tiple sequence alignment, alignment scores and phylo-           sues with high polysaccharide content. RNA was cleaned
+gentic analysis were performed using ClustalW2 [56]             up using RNeasy Mini Kits (QIAGEN), including DNA
+using protein sequences of Sb10g010050 (Sorghum CO),            removal by on-column DNase I digestion. RNA integrity
+GRMZM2G405368_T01 (Maize conz1), Os06g16370                     was examined on 1% MOPS gels. First-strand cDNA
+(Rice Hd1), AF490468 (Barley HvCO1) and AT5G15850               synthesis was performed using the SuperScript® III
+(Arabidopsis CO). Rice and sorghum genome sequences             First-Strand Synthesis System (Invitrogen) with oligo dT
+(Phytozome v9.1, 100 kbp) spanning homologs of CO were          and random hexamer primer mix. After first-strand
+used for synteny/colinearity analysis. Colinearity was deter-   cDNA synthesis, the reactions were diluted to a final
+mined by GEvo [44], a high-resolution sequence analysis         concentration of 10 ng/μl of the initial total RNA. Gene-
+tool of genomic regions from CoGe (Accelerating Com-            specific qRT-PCR was performed using Power SYBR
+parative Genomics) tool kit [57]. A similar phylogenetic/       Green PCR Master Mix (Applied Biosystems). 18S rRNA
+colinearity analysis was performed for EHD1.                    was selected as internal control and detected using the
+                                                                TaqMan Universal PCR Master Mix (Applied Biosystems),
+Allele characterization                                         rRNA Probe (VIC® Probe) and rRNA Forward/Reverse
+SNPs in candidate genes were identified by comparing            Primer. All reactions were run on a 7900HT PCR Sys-
+DNA sequences derived from BTx623, BTx642 and                   tem with SDS v2.3 software (Applied Biosystems). The
+Tx7000. The BTx623 Sbi1 assembly and Sbi1.4 gene an-            specificity of each qRT-PCR primer set was validated
+notation were used as the reference genome sequence             using melting temperature curve analysis. Amplification
+(Phytozome). BTx642 and Tx7000 genome sequence as-              efficiency of each primer set was determined by the series
+semblies used for analysis were obtained previously [39].       dilution method [58], which can be calculated by the slope
+SNPs were called using the SNP Detection function of            of the curve made from each Ct value and the dilution
+Yang et al. BMC Plant Biology 2014, 14:148                                                                                                       Page 14 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+factor (Additional file 7: Table S4). Relative expression was                  analysis in collaboration with SY. DM helped to identify the nature of CO
+determined using the comparative cycle threshold (ΔΔCt)                        alleles and other flowering time gene alleles, and aided in the design of
+                                                                               experiments, collection of tissue used to analyze flowering gene expression
+method with calibration using samples with the highest                         and editing of the text. All authors read and approved the final manuscript.
+levels of RNA. The primer efficiency was employed to ad-
+just data for relative quantification following the efficiency                 Acknowledgements
+correction method [59]. Each expression data point was                         The authors thank William Rooney for growing the BTx642*Tx7000 RIL
+                                                                               population in field plots in College Station. Funding for this research was
+derived from analysis of three technical replicates within                     provided by the Perry Adkisson Chair in Agricultural Biology (JEM), Ceres,
+three biological replicates.                                                   Inc., and Pioneer Hi-Bred International, Inc.
+
+                                                                               Received: 10 February 2014 Accepted: 13 May 2014
+Availability of supporting data                                                Published: 28 May 2014
+All the supporting data are included as additional files.
+BTx642 and Tx7000 whole genome sequence assemblies                             References
+                                                                               1. Murphy RL, Klein RR, Morishige DT, Brady JA, Rooney WL, Miller FR, Dugas DV,
+used for analysis were published previously in Evans J,                            Klein PE, Mullet JE: Coincident light and clock regulation of pseudoresponse
+McCormick RF, Morishige D, Olson SN, Weers B, et al.                               regulator protein 37 (PRR37) controls photoperiodic flowering in sorghum.
+(2013) Extensive Variation in the Density and Distribu-                            Proc Natl Acad Sci USA 2011, 108(39):16469–16474.
+                                                                               2. Murphy RL, Morishige DT, Brady JA, Rooney WL, Yang S, Klein PE, Mullet JE:
+tion of DNA Polymorphism in Sorghum Genomes. PLoS                                  Ghd7 (Ma6) Represses flowering in long days: a key trait in energy
+ONE 8(11): e79192. doi:10.1371/journal.pone.0079192.                               sorghum hybrids. Plant Genome 2014, doi:10.3835/plantgenome2013.11.0040.
+Genome sequences were deposited with NCBI SRA                                  3. Rooney WL, Blumenthal J, Bean B, Mullet JE: Designing sorghum as a
+                                                                                   dedicated bioenergy feedstock. Biofuels Bioproducts Biorefining 2007,
+under the following identifiers: BioProjectPRJNA189453,                            1(2):147–157.
+Accession SRP019171 (http://www.ncbi.nlm.nih.gov/sra/?                         4. Olson SN, Ritter K, Rooney W, Kemanian A, McCarl BA, Zhang Y, Hall S,
+term=PRJNA189453); SAMN01942195 contains sequence                                  Packer D, Mullet J: High biomass yield energy sorghum: developing a
+                                                                                   genetic model for C4 grass bioenergy crops. Biofuels Bioproducts
+information for BTx642, and SAMN01942194 contains se-                              Biorefining 2012, 6(6):640–655.
+quence information for Tx7000.                                                 5. Morgan PW, Finlayson SA: Physiology and genetics of maturity and
+                                                                                   height. In Sorghum: Origin, History, Technology, and Production. Edited by
+                                                                                   Smith CW, Frederiksen RA. New York: Wiley Series in Crop Science;
+Additional files                                                                   2000:240–242.
+                                                                               6. Valverde F: CONSTANS and the evolutionary origin of photoperiodic
+ Additional file 1: Table S1. Characterization of SbEHD1 alleles.                  timing of flowering. J Exp Bot 2011, 62(8):2453–2463.
+                                                                               7. Tsuji H, Taoka K, Shimamoto K: Florigen in rice: complex gene network for
+ Additional file 2: Figure S1. Colinearity of rice Hd1 and sorghum
+                                                                                   florigen transcription, florigen activation complex, and multiple
+ CONSTANS. Reference genome sequences including sorghum SbCO
+                                                                                   functions. Curr Opin Plant Biol 2013, 16(2):228–235.
+ (upper panel) and rice OsHd1 (lower panel) were analyzed for sequences
+                                                                               8. Itoh H, Izawa T: The coincidence of critical day length recognition for
+ that align (red boxes) Colinear genes within the aligned region are
+                                                                                   florigen gene expression and floral transition under long-day conditions
+ connected by red lines. a-d represent four colinear genes in rice and
+                                                                                   in rice. Mol Plant 2013, 6(3):635–649.
+ sorghum (Sb10g010020- Sb10g010050) including SbCO (Sb10g010050, d).
+                                                                               9. Turck F, Fornara F, Coupland G: Regulation and identity of florigen:
+ Additional file 3: Figure S2. Expression level (ΔCt) of circadian clock           FLOWERING LOCUS T moves center stage. Annu Rev Plant Biol 2008,
+ genes and GI in RIL105 (black solid line) and RIL112 (red dashed line)            59:573–594.
+ under either LD (14 h light/10 h dark) or SD (10 h light/14 h dark)           10. Tsuji H, Taoka K, Shimamoto K: Regulation of flowering in rice: two
+ conditions. The gray shaded area represents the dark period. The first            florigen genes, a complex gene network, and natural variation. Curr Opin
+ 24 h covers one light–dark cycle, followed by 24 h of continuous light.           Plant Biol 2011, 14(1):45–52.
+ A. TOC1. B. LHY. C. GI. Each expression data point corresponds to three       11. Colasanti J, Coneva V: Mechanisms of floral induction in grasses:
+ technical replicates within three biological replicates.                          something borrowed, something new. Plant Physiol 2009, 149(1):56–62.
+ Additional file 4: Table S2. Orthologs of sorghum FT/CN genes (SbCN)          12. Greenup A, Peacock WJ, Dennis ES, Trevaskis B: The molecular biology of
+ identified in maize and rice.                                                     seasonal flowering-responses in Arabidopsis and the cereals. Ann Bot
+                                                                                   2009, 103(8):1165–1172.
+ Additional file 5: Figure S3. Relative expression levels of SbCO in
+                                                                               13. Jackson SD: Plant responses to photoperiod. New Phytol 2009,
+ RIL105 grown in LD (14 h light/10 h dark) or SD (10 h light/14 h dark).
+                                                                                   181(3):517–531.
+ Black solid lines represent relative expression in LD and red dashed lines
+                                                                               14. Andres F, Coupland G: The genetic basis of flowering responses to
+ represent relative expression in SD followed by 24 h in LL.
+                                                                                   seasonal cues. Nat Rev Genet 2012, 13(9):627–639.
+ Additional file 6: Table S3. Genotypes of genetic loci affecting              15. Imaizumi T, Kay SA: Photoperiodic control of flowering: not only by
+ flowering time in RIL112 and RIL105.                                              coincidence. Trends Plant Sci 2006, 11(11):550–558.
+ Additional file 7: Table S4. Primer sequences and amplification               16. Coles ND, McMullen MD, Balint-Kurti PJ, Pratt RC, Holland JB: Genetic
+ efficiency of primers used for qRT-PCR.                                           control of photoperiod sensitivity in maize revealed by joint multiple
+                                                                                   population analysis. Genetics 2010, 184(3):799–812.
+                                                                               17. Buckler ES, Holland JB, Bradbury PJ, Acharya CB, Brown PJ, Browne C, Ersoz E,
+Competing interests                                                                Flint-Garcia S, Garcia A, Glaubitz JC, Goodman MM, Harjes C, Guill K, Kroon DE,
+The authors declare that they do not have competing interests.                     Larsson S, Lepak NK, Li H, Mitchell SE, Pressoir G, Peiffer JA, Rosas MO,
+                                                                                   Rocheford TR, Romay MC, Romero S, Salvo S, Sanchez Villeda H, da Silva HS,
+Authors’ contributions                                                             Sun Q, Tian F, Upadyayula N, et al: The genetic architecture of maize
+SY contributed to the design of experiments, collected and analyzed data,          flowering time. Science 2009, 325(5941):714–718.
+and was primarily responsible for figure construction and writing the paper.   18. Chardon F, Virlon B, Moreau L, Falque M, Joets J, Decousset L, Murigneux A,
+JM conceived and obtained funding for the research, helped design and              Charcosset A: Genetic architecture of flowering time in maize as inferred
+interpret experimental results and edited the text. BW phenotyped the RIL          from quantitative trait loci meta-analysis and synteny conservation with
+population for flowering time in multiple locations and conducted QTL              the rice genome. Genetics 2004, 168(4):2169–2185.
+Yang et al. BMC Plant Biology 2014, 14:148                                                                                                                Page 15 of 15
+http://www.biomedcentral.com/1471-2229/14/148
+
+
+
+
+19. Yano M, Katayose Y, Ashikari M, Yamanouchi U, Monna L, Fuse T, Baba T,                41. Murray SC, Sharma A, Rooney WL, Klein PE, Mullet JE, Mitchell SE,
+    Yamamoto K, Umehara Y, Nagamura Y, Sasaki T: Hd1, a major photoperiod                     Kresovich S: Genetic improvement of sorghum as a biofuel feedstock:
+    sensitivity quantitative trait locus in rice, is closely related to the arabidopsis       I. QTL for stem sugar and grain nonstructural carbohydrates. Crop Sci
+    flowering time gene CONSTANS. Plant Cell 2000, 12(12):2473–2483.                          2008, 48(6):2165–2179.
+20. Doi K, Izawa T, Fuse T, Yamanouchi U, Kubo T, Shimatani Z, Yano M,                    42. Phytozome v9.1. [http://www.phytozome.net/]
+    Yoshimura A: Ehd1, a B-type response regulator in rice, confers short-day             43. Miller TA, Muslin EH, Dorweiler JE: A maize CONSTANS-like gene, conz1,
+    promotion of flowering and controls FT-like gene expression independently                 exhibits distinct diurnal expression patterns in varied photoperiods.
+    of Hd1. Genes Dev 2004, 18(8):926–936.                                                    Planta 2008, 227(6):1377–1388.
+21. Xue W, Xing Y, Weng X, Zhao Y, Tang W, Wang L, Zhou H, Yu S, Xu C, Li X,              44. GEvo (Genome Evolution Analysis). [http://genomevolution.org/CoGe/
+    Zhang Q: Natural variation in Ghd7 is an important regulator of heading                   GEvo.pl]
+    date and yield potential in rice. Nat Genet 2008, 40(6):761–767.                      45. Kumar P, Henikoff S, Ng PC: Predicting the effects of coding non-synonymous
+22. Yan L, Loukoianov A, Blechl A, Tranquilli G, Ramakrishna W, SanMiguel P,                  variants on protein function using the SIFT algorithm. Nat Protoc 2009,
+    Bennetzen JL, Echenique V, Dubcovsky J: The wheat VRN2 gene is a                          4(7):1073–1081.
+    flowering repressor down-regulated by vernalization. Science 2004,                    46. Danilevskaya ON, Meng X, Hou Z, Ananiev EV, Simmons CR: A genomic and
+    303(5664):1640–1644.                                                                      expression compendium of the expanded PEBP gene family from maize.
+23. Itoh H, Nonoue Y, Yano M, Izawa T: A pair of floral regulators sets critical              Plant Physiol 2008, 146(1):250–264.
+    day length for Hd3a florigen expression in rice. Nat Genet 2010,                      47. Meng X, Muszynski MG, Danilevskaya ON: The FT-like ZCN8 gene functions
+    42(7):635–638.                                                                            as a floral activator and is involved in photoperiod sensitivity in maize.
+24. Mace ES, Hunt CH, Jordan DR: Supermodels: sorghum and maize provide                       Plant Cell 2011, 23(3):942–960.
+    mutual insight into the genetics of flowering time. Theor Appl Genet 2013,            48. Wenkel S, Turck F, Singer K, Gissot L, Le Gourrierec J, Samach A, Coupland G:
+    126(5):1377–1395.                                                                         CONSTANS and the CCAAT box binding complex share a functionally
+25. Quinby JR: Sorghum improvement and the genetics of growth. College                        important domain and interact to regulate flowering of Arabidopsis. Plant
+    Station: Texas A&M Univ. Press; 1974.                                                     Cell 2006, 18(11):2971–2984.
+26. Childs KL, Miller FR, Cordonnier-Pratt MM, Pratt LH, Morgan PW, Mullet JE:            49. Ben-Naim O, Eshed R, Parnis A, Teper-Bamnolker P, Shalit A, Coupland G,
+    The sorghum photoperiod sensitivity gene, Ma3, encodes a phytochrome B.                   Samach A, Lifschitz E: The CCAAT binding factor can mediate interactions
+    Plant Physiol 1997, 113(2):611–619.                                                       between CONSTANS-like proteins and DNA. Plant J 2006, 46(3):462–476.
+27. Izawa T, Oikawa T, Sugiyama N, Tanisaka T, Yano M, Shimamoto K:                       50. Tiwari SB, Shen Y, Chang HC, Hou Y, Harris A, Ma SF, McPartland M,
+    Phytochrome mediates the external light signal to repress FT orthologs                    Hymus GJ, Adam L, Marion C, Belachew A, Repetti PP, Reuber TL,
+    in photoperiodic flowering of rice. Genes Dev 2002, 16(15):2006–2020.                     Ratcliffe OJ: The flowering time regulator CONSTANS is recruited to
+28. Hanumappa M, Pratt LH, Cordonnier-Pratt MM, Deitzer GF: A photoperiod-                    the FLOWERING LOCUS T promoter via a unique cis-element. New
+    insensitive barley line contains a light-labile phytochrome B. Plant Physiol              Phytol 2010, 187(1):57–66.
+    1999, 119(3):1033–1040.                                                               51. Li C, Distelfeld A, Comis A, Dubcovsky J: Wheat flowering repressor VRN2
+29. Rooney W, Aydin S: Genetic control of a photoperiod-sensitive response                    and promoter CO2 compete for interactions with NUCLEAR FACTOR-Y
+    in Sorghum bicolor (L.) Moench. Crop Sci 1999, 39(2):397–400.                             complexes. Plant J 2011, 67(5):763–773.
+30. Robson F, Costa MM, Hepworth SR, Vizir I, Pineiro M, Reeves PH, Putterill J,          52. Gendron JM, Pruneda-Paz JL, Doherty CJ, Gross AM, Kang SE, Kay SA:
+    Coupland G: Functional importance of conserved domains in the flowering-                  Arabidopsis circadian clock protein, TOC1, is a DNA-binding transcription
+    time gene CONSTANS demonstrated by analysis of mutant alleles                             factor. Proc Natl Acad Sci U S A 2012, 109(8):3167–3172.
+    and transgenic plants. Plant J 2001, 28(6):619–631.                                   53. Bentley AR, Jensen EF, Mackay IJ, Hönicka H, Fladung M, Hori K, Yano M,
+31. Griffiths S, Dunford RP, Coupland G, Laurie DA: The evolution of CONSTANS-                Mullet JE, Armstead IP, Hayes C, Thorogood D, Lovatt A, Morris R, Pullen N,
+    like gene families in barley, rice, and Arabidopsis. Plant Physiol 2003,                  Mutasa-Göttgen E, Cockram J: Flowering time. In Genomics and Breeding for
+    131(4):1855–1867.                                                                         Climate-Resilient Crops, Volume 2. Edited by Kole C. Verlag Berlin
+32. Ballerini ES, Kramer EM: In the light of evolution: a reevaluation of                     Heidelberg: Springer; 2013:1–66.
+    conservation in the CO-FT regulon and its role in photoperiodic                       54. Wang S, Basten CJ, Zeng Z-B: Windows QTL Cartographer 2.5. In Department
+    regulation of flowering time. Front Plant Sci 2011, 2:81.                                 of Statistics. Raleigh, NC: North Carolina State University; 2012.
+                                                                                          55. Churchill GA, Doerge RW: Empirical threshold values for quantitative trait
+33. Takahashi Y, Teshima KM, Yokoi S, Innan H, Shimamoto K: Variations in Hd1
+                                                                                              mapping. Genetics 1994, 138(3):963–971.
+    proteins, Hd3a promoters, and Ehd1 expression levels contribute to
+                                                                                          56. ClustalW2. [http://www.ebi.ac.uk/Tools/msa/clustalw2/]
+    diversity of flowering time in cultivated rice. Proc Natl Acad Sci USA 2009,
+                                                                                          57. CoGe (Accelerating Comparative Genomics). [http://genomevolution.org/
+    106(11):4555–4560.
+                                                                                              CoGe/]
+34. Ishikawa R, Aoki M, Kurotani K, Yokoi S, Shinomura T, Takano M, Shimamoto K:
+                                                                                          58. Bookout AL, Mangelsdorf DJ: Quantitative real-time PCR protocol for
+    Phytochrome B regulates Heading date 1 (Hd1)-mediated expression of rice
+                                                                                              analysis of nuclear receptor signaling pathways. Nucl Recept Signal
+    florigen Hd3a and critical day length in rice. Mol Genet Genomics 2011,
+                                                                                              2003, 1:1–7.
+    285(6):461–470.
+                                                                                          59. Pfaffl MW: A new mathematical model for relative quantification in
+35. Koo BH, Yoo SC, Park JW, Kwon CT, Lee BD, An G, Zhang Z, Li J, Li Z, Paek NC:
+                                                                                              real-time RT-PCR. Nucleic Acids Res 2001, 29(9):2002–2007.
+    Natural variation in OsPRR37 regulates heading date and contributes to rice
+    cultivation at a wide range of latitudes. Mol Plant 2013, 6(6):1877–1888.
+36. Campoli C, Drosse B, Searle I, Coupland G, von Korff M: Functional                     doi:10.1186/1471-2229-14-148
+                                                                                           Cite this article as: Yang et al.: CONSTANS is a photoperiod regulated
+    characterisation of HvCO1, the barley (Hordeum vulgare) flowering time
+                                                                                           activator of flowering in sorghum. BMC Plant Biology 2014 14:148.
+    ortholog of CONSTANS. Plant J 2012, 69(5):868–880.
+37. Rosenow DT, Clark LE: Drought and lodging resistance for a quality
+    sorghum crop. In Proceedings of the 50th Annual Corn and Sorghum
+    Industry Research Conference: 6–7 Dec. Chicago, IL: American Seed Trade
+    Association; 1995.
+38. Xu W, Subudhi PK, Crasta OR, Rosenow DT, Mullet JE, Nguyen HT: Molecular
+    mapping of QTLs conferring stay-green in grain sorghum (Sorghum bicolor
+    L. Moench). Genome 2000, 43(3):461–469.
+39. Evans J, McCormick RF, Morishige D, Olson SN, Weers B, Hilley J, Klein P,
+    Rooney W, Mullet J: Extensive variation in the density and distribution of
+    DNA polymorphism in sorghum genomes. PLoS One 2013, 8(11):e79192.
+40. Morishige DT, Klein PE, Hilley JL, Sahraeian SM, Sharma A, Mullet JE: Digital
+    genotyping of sorghum - a diverse plant species with a large repeat-rich
+    genome. BMC Genomics 2013, 14(1):448.
+
